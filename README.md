@@ -32,6 +32,8 @@ Feel free to fork or modify anything here, and I'm open to hearing out any mod s
 Well, I'm not quite sure if it's the best way, but I just launch my server with this pack using this little script.
 
 Not just will it **automatically restart** your server in the even of a crash, it also uses **Aikar's flags** for even more speed!
+
+You'll also have to download, and then drop [**this thingamajig**](https://github.com/packwiz/packwiz-installer-bootstrap) into your server's directory.
 ```
 #!/bin/sh
 while true
