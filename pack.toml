@@ -1,0 +1,13 @@
+name = "Bafserve"
+author = "Regular Baf"
+version = "0.6.9"
+pack-format = "packwiz:1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "9af359548acf9113d88ac64ae1050a36a2703d1de8b75309a745b1d566f64529"
+
+[versions]
+fabric = "0.13.3"
+minecraft = "1.18.2"
