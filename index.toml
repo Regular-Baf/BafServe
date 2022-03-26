@@ -26,6 +26,11 @@ hash = "7d40bcc67b4a6c0e1e6e0d0d586ac506834c8df3e906e3a029c39836d5ef2821"
 metafile = true
 
 [[files]]
+file = "mods/gimme-bundles.toml"
+hash = "dd952dc22a32c52880574c5d03a2a6a60b082bf6b717c5a05b4d79418b01eb55"
+metafile = true
+
+[[files]]
 file = "mods/krypton.toml"
 hash = "219d4425679c60fd2855a6a39a6fccb6db3948dcc57b9da7c20907c855c5bd3d"
 metafile = true
