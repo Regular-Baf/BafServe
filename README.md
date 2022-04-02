@@ -18,7 +18,6 @@ Feel free to fork or modify anything here, and I'm open to hearing out any mod s
 * Alternate Current
 * Very Many Players
 ### Actually The Best
-* Xearos Worldmap
 * Universal Graves
 * Gimme Bundles!
 * RPG Stats
