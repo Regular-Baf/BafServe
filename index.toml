@@ -1,6 +1,3966 @@
 hash-format = "sha256"
 
 [[files]]
+file = "1.19.2 Bestie Server/.fabric/remappedJars/minecraft-1.19.2-0.14.10/server-intermediary.jar"
+hash = "0de4684457786062b03c2fb65875ad3be322396f921410b52b44690148734ad3"
+
+[[files]]
+file = "1.19.2 Bestie Server/.fabric/server/1.19.2-server.jar"
+hash = "b26727069ef5f61c704add9a378ac90e3d271fd7876c0bd3dcfbe9fd0bec4d96"
+
+[[files]]
+file = "1.19.2 Bestie Server/.fabric/server/fabric-loader-server-0.14.10-minecraft-1.19.2.jar"
+hash = "edb0acb0f110ce421d3edcfa02eca41c06737ee2ffcafbff542db9e90dfbaf6a"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/data/raids.dat"
+hash = "18ff0e3c513068e753f77bc341732cb1b8b05861b86cf1dc61e80167f80c49e9"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/entities/r.-1.0.mca"
+hash = "c11ed736d39d0ae187c3aa2daf0b3f491701c7b065f7707766da45c51f195ebe"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/entities/r.-1.1.mca"
+hash = "bf2a35b4135dd82cb1e931f79c5e6a74def539259470441774a34127c307aa04"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/entities/r.-1.11.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/entities/r.-1.15.mca"
+hash = "87def375738e76983abf9961ecd272c290e2482e909c220440094cc0bdfbb518"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/entities/r.-1.16.mca"
+hash = "57eb3a90c00e847e22fb04053257ffd33f169a2f9412c226deb9ca53832e9a21"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/entities/r.-1.2.mca"
+hash = "35bc14660f41af5cef2b9904a6f450a9bde4ab0f0617ff46262e071b24d7cafb"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/entities/r.-2.0.mca"
+hash = "8a87644a236eace232889deed2ea7eed6de4e02c3f0b6c7e5e2de86868b6b4df"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/entities/r.-2.1.mca"
+hash = "f97cf4137138c94452653e2498b399758f1b213a9fd55c7031011aa22d1974b3"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/entities/r.-2.2.mca"
+hash = "fb9c9cf625e697b43aca123e6453d7f0de6334af91eaa028a81ef44b05e0a073"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/entities/r.-3.0.mca"
+hash = "ec1411b4d048508e2ff4c70ce58e805f61a4fc69e81c537380eab712463096d0"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/entities/r.-3.1.mca"
+hash = "54b1a51d401dd898ed513568929024ce32405e4988bf77b671af4122b958fc8a"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/entities/r.-4.10.mca"
+hash = "170582f64beab31214981f87467b22447b61852afb0205ea54e998befe754662"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/entities/r.-4.9.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/entities/r.0.0.mca"
+hash = "353bfc47166936b99da9c29836cbd8a24b9723cd02069863441838bcfd41e798"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/entities/r.0.1.mca"
+hash = "fa335fa34cff20a665c0e5dd3df7812a747cf69cd83119004eac659b278b2f45"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/entities/r.0.15.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/entities/r.0.16.mca"
+hash = "4bcb788dc72a77d1085d17442438b3b7fcbaa7c691e244f7b2c7008860b487b7"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/entities/r.0.2.mca"
+hash = "028da0bf206e1be40c1033bc6fa17ab1babafe06a59c922593074117ccd1c281"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/entities/r.1.1.mca"
+hash = "9ff061534bfeac85fdeccc0072c28c0ce667592b4c093c7206f3276db34a2e1b"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/poi/r.-1.-1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/poi/r.-1.0.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/poi/r.-1.1.mca"
+hash = "53f3e972af523271733ae1997fab04235a92585be6f18ad64f378448e2dad7ba"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/poi/r.-1.11.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/poi/r.-1.12.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/poi/r.-1.15.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/poi/r.-1.16.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/poi/r.-1.2.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/poi/r.-2.-1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/poi/r.-2.0.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/poi/r.-2.1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/poi/r.-2.11.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/poi/r.-2.12.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/poi/r.-2.2.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/poi/r.-3.0.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/poi/r.-3.1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/poi/r.-3.10.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/poi/r.-3.2.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/poi/r.-3.9.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/poi/r.-4.10.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/poi/r.-4.9.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/poi/r.0.-1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/poi/r.0.0.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/poi/r.0.1.mca"
+hash = "81ca427c7d1766c4a28273229e0623769d80282596408bf088736dfcc91c514c"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/poi/r.0.15.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/poi/r.0.16.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/poi/r.0.2.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/poi/r.1.0.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/poi/r.1.1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/poi/r.1.2.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/region/r.-1.-1.mca"
+hash = "a77c2bf4cbc0014e2731f5f7e7743167ef24a72f15263ee970674f4afed55132"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/region/r.-1.0.mca"
+hash = "ef82cb9143ed27f9ba02c7682e240953301be459cc72f40ed475dc944cb681ee"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/region/r.-1.1.mca"
+hash = "c229819a132a856655eb60c9d776beaed02c44afae90f55e86d6b384e0ab5849"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/region/r.-1.11.mca"
+hash = "bdd0144140c2ddd549844f47045e6114d406b8464c39376413b3203a795cf4f8"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/region/r.-1.12.mca"
+hash = "93e6258529eceb3bc004ba8aad8de83c19a8d97c25e3565b5ef15bcef0922a6a"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/region/r.-1.15.mca"
+hash = "eb06096442d6ff041ce28445f62328731ac29b177338a32ad7342a97b4f96a83"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/region/r.-1.16.mca"
+hash = "16655785ead837ab5ab592cfe8b5c28f30104e1198132927269efe11ddcd9828"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/region/r.-1.2.mca"
+hash = "9679293f88b139bcf85e7559ee3b45c5b762e07e1384025822564905d348e200"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/region/r.-2.-1.mca"
+hash = "33f2da41baad3fb91f31f0c59a4d9bc5872f4fbe3eae6dfb402f15dd84cce787"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/region/r.-2.0.mca"
+hash = "f301e8da65c7c9f67fb824663d6ebc07a00d3c9f0a2b0f519b27975e3bf6c823"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/region/r.-2.1.mca"
+hash = "d76968c1553d6225bdde23801d910fb6842a20e293d16b576b98586382310c6e"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/region/r.-2.11.mca"
+hash = "f4961f37649c521e1ef55d264590fae86b46c9f96406760e55353a13bdb2cb39"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/region/r.-2.12.mca"
+hash = "d356a59005db8859d0782d013c9d092bf461e99c7f021ae3ebbb595b799d7e97"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/region/r.-2.2.mca"
+hash = "15ca9a4af6773155f123efffd02fc0b7dd22545854007a599c86edefc9f5da16"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/region/r.-3.0.mca"
+hash = "e57aced15b44ad4b7032caa8a2ba2d3ba7f75e950d7dc81de172e573c7f05bb1"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/region/r.-3.1.mca"
+hash = "fffcd88725a25c6d7adbfa4162af214e74b6ac0664a0d5f3891f3f6dd5d62b25"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/region/r.-3.10.mca"
+hash = "a757de6b46ae15ce531ad2f40432a0cefa95121d5f08b91a1662c9f6f78bdbf2"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/region/r.-3.2.mca"
+hash = "4996edba15ee72b60b2cd2dad9c36f8feb8d351ce48c11d0d1e34e2b3b6f31a8"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/region/r.-3.9.mca"
+hash = "6f995f93cad42c0965c6ed4815e8af938d14c43c6287ef2af40df052f79f2188"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/region/r.-4.10.mca"
+hash = "a72f82fe6bc01cae9f616399d8259be2d80407961e7c58a940b46febd32dc348"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/region/r.-4.9.mca"
+hash = "496299d8749c574c3a1da94d4ce981147ffaef9db73809d928208c581e6b1d5a"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/region/r.-5.10.mca"
+hash = "59244159d02c43bd4360fd79c8e729d6ea43e977647b8fd331f69a82ab4d5456"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/region/r.-5.9.mca"
+hash = "7ce924d84aceb97d2d244d9c4e1d62310d21fc3bc9254b13c28878479d3b305f"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/region/r.0.-1.mca"
+hash = "53f830fee6b2a94422772ff09371d42b6e8896213b5f21270444665ceab953c1"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/region/r.0.0.mca"
+hash = "491952c7f96a87c0392ed1ef72d92ce1f64f80303cc8a3f3bdfb1a3d5d10a472"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/region/r.0.1.mca"
+hash = "1aec79453850a07e4949c570eca29591dd7bda6178150b28179c5bc88964c61b"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/region/r.0.15.mca"
+hash = "a343fc23e0976ab52e5e32f30d5441c4f0d15f33868b710cc764313a4cb2332e"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/region/r.0.16.mca"
+hash = "579a5f08e5ab8c5c26f35521ab4ff54145da84ea3ecc47f1238dcd7c694ed8c0"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/region/r.0.2.mca"
+hash = "81ee291a9db08f6853883bcf82a87f28780cbd665fd4ef7cc2df5ece8a9e1792"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/region/r.1.0.mca"
+hash = "53186689325171a8639c80a4abc5d6eef4c1e4bb25f458dc391646984533dcd3"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/region/r.1.1.mca"
+hash = "b9bd1e093e555639543b1855004946bfbe6bae438ac81939cf04b27021bdc744"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM-1/region/r.1.2.mca"
+hash = "7bdcb062bce3a8ae76b4bf776b5692baf0e55a281d2f45e13de10b7cd9601746"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/data/raids_end.dat"
+hash = "9e4ed6c72c040044447d680cd087c607bdf2d2ae49e9c1944bea2aa46c9ca7b5"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/entities/r.-1.-1.mca"
+hash = "3b93a729e421eb00bffdd2968f401f0a1f2757295d25af053964fd757ac90a6a"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/entities/r.-1.0.mca"
+hash = "9e374314ec5e1b8137a141fbe0eecf8e20ac7c29d5da1e664af1e78413dfdccf"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/entities/r.-1.10.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/entities/r.0.-1.mca"
+hash = "618c2ed16fbf3d9a86a2f16e271225256c441a5aa2409f0ce5a64facfbc1ba60"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/entities/r.0.-2.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/entities/r.0.-3.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/entities/r.0.0.mca"
+hash = "25ec9d7c79ef3b55fe9a0b0af89fb29cd01902cfb33106f22ad4003e4ced2931"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/entities/r.0.10.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/entities/r.1.-1.mca"
+hash = "682511e5d69edc16d8baec459549afab819ca906ee1bf04e07308fa5242798ff"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/entities/r.1.-2.mca"
+hash = "920b313eedafb91b7a5f9d873c71edac6826d794c1ccc7dd8c36a5cb216eabd0"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/entities/r.1.-3.mca"
+hash = "a17e72a4d1bf1c949d02c8ad4e024f4d86fb6f335d0dbfa2d378720f5c2f6a3b"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/entities/r.1.-4.mca"
+hash = "286bff63bf6303e216ca05ec3f7c6d8281d13d394f17cfbd084c6bba71651509"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/entities/r.1.0.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/entities/r.2.-1.mca"
+hash = "850475ae08ee1128001649d03584210a126d7c8606f2cb241fa66d4a865305c3"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/entities/r.2.-2.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/entities/r.2.-3.mca"
+hash = "0e809386d4cb1f5170163bf94be16230110af6239cf407d272c1854c0fa83724"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/entities/r.2.-4.mca"
+hash = "3f5f836f5e32039fa58552ac61c19ddac4ef1f850469fc295f07c290996f647f"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/entities/r.3.-1.mca"
+hash = "c0825d045f77b81af3af1577d867462ef1ddba0ba8beb00b43410d34d0542b67"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/entities/r.3.-2.mca"
+hash = "34e7850b21f133612e4ceba9a276ce3ca6c47c7f7eaa421d7c02cee423831932"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/entities/r.3.-3.mca"
+hash = "3e35021c5fa6ac8bdfc5b078dda19c36d22a6f50cd8961876dc33fd041f521e9"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/entities/r.3.-4.mca"
+hash = "3779b9860244c83526e5696a08bf6174731c472147e31fc9168070f67b32dc6a"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/entities/r.4.-1.mca"
+hash = "12f0a576ac9d0aefc4c8c4f4dbd733637fc34b11a0fa6754aee02cfa07967440"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/entities/r.4.-2.mca"
+hash = "983095bcd8e6523b2743eface7086e7efc0b1993aa21a08e1013f76e11020d16"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/entities/r.4.-3.mca"
+hash = "13dec2f5079876e105be6682e54b26c944fc02357eb13a9ef98b7051b64c022d"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/entities/r.4.-4.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/entities/r.5.-1.mca"
+hash = "ff987a2e05b291875144541a6f921009ed4c5101563380caee68a270c0c32e09"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/entities/r.5.-2.mca"
+hash = "2293ab00a20a4aec816294281a5b4c1cb76ef9a5c1b9c6cee74fe42734eb02f4"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/entities/r.5.-3.mca"
+hash = "2f638ee6518fa3c60948524238a57fb4a77c95a226cbf33a3b53b52732b008c0"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/entities/r.6.-1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/entities/r.6.-2.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/poi/r.-1.-1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/poi/r.-1.0.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/poi/r.-1.10.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/poi/r.-1.11.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/poi/r.0.-1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/poi/r.0.-2.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/poi/r.0.-3.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/poi/r.0.-4.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/poi/r.0.0.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/poi/r.0.10.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/poi/r.0.11.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/poi/r.1.-1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/poi/r.1.-2.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/poi/r.1.-3.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/poi/r.1.-4.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/poi/r.1.-5.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/poi/r.1.0.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/poi/r.2.-1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/poi/r.2.-2.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/poi/r.2.-3.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/poi/r.2.-4.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/poi/r.2.-5.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/poi/r.2.0.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/poi/r.3.-1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/poi/r.3.-2.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/poi/r.3.-3.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/poi/r.3.-4.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/poi/r.3.-5.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/poi/r.3.0.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/poi/r.4.-1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/poi/r.4.-2.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/poi/r.4.-3.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/poi/r.4.-4.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/poi/r.4.0.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/poi/r.5.-1.mca"
+hash = "3b82c6cc61cda7990d03a0ebaaaf0d67ad0d905211ab4cfea0f39e9593055c5f"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/poi/r.5.-2.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/poi/r.5.-3.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/poi/r.5.0.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/poi/r.6.-1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/poi/r.6.-2.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/poi/r.6.-3.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/region/r.-1.-1.mca"
+hash = "a80be5e73fcd091655e72db87a06363a16671dd8362fa38fa9233e8ca9ce91ae"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/region/r.-1.0.mca"
+hash = "cd2013efe429f218c896ee041c1cc8f689fde2b9d647b4e8b3f05ff006f72ab5"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/region/r.-1.10.mca"
+hash = "f4f472563dc487500ca57b46881b5864198d6cabde0ee5ae5a3b4d6bc1b9c227"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/region/r.-1.11.mca"
+hash = "6437a6502e5a8b12239b666018ffb799122fd424db1a3e10555352d4d0c2baa7"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/region/r.0.-1.mca"
+hash = "bfe3eb14be3127d353ca9a1c84d69f98c15645fcf91820ded47a9b95243e8b4d"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/region/r.0.-2.mca"
+hash = "034ae1425ab1183d979197c34a81862b206fc52eb4115ea70364c575f3993170"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/region/r.0.-3.mca"
+hash = "35e8ac5e60ea89efa10f1144cd2b52d348f797e8f5720dd7f7b935840e03fbef"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/region/r.0.-4.mca"
+hash = "8f44ddc47e99e45d90e0c2e3c4182e737994342d0273fa9f73eb1587db81e0f1"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/region/r.0.0.mca"
+hash = "3c06c8c514cbb9cbfa6ccc352a2f03b1d54be076fd3c42f9802ed399a3453c5c"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/region/r.0.10.mca"
+hash = "d2f256b4123333a09bab108000d1b5288a90695c68355141a93e79a38b443416"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/region/r.0.11.mca"
+hash = "63e048eb826f7a10381a64ec34d49b8884ff8b596cc49c037ad1efb5f568b48c"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/region/r.1.-1.mca"
+hash = "863fa40767ed26e9bdd835b1ff2935d651fbdb7a3c328b735e4e871e89ba54c4"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/region/r.1.-2.mca"
+hash = "d09d9ed0727d14180bd6877396912023b39cc60b410805abea32e05b0d3ab840"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/region/r.1.-3.mca"
+hash = "962b7b90e1a1f31de84d077442ead1125fd20b83c84a371da4aed19b92d85b14"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/region/r.1.-4.mca"
+hash = "35f53e77e77f464fa8f4515ea87902e001877e1a9c9f0737221bb35ca5cfa64d"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/region/r.1.-5.mca"
+hash = "c6b1b24a45f42b71a70c6f97b1fd4c2d4bd474f1618a34c85ecc3f9860ad8b3d"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/region/r.1.0.mca"
+hash = "f847d08d719e78a27920ec6075a7b2039bc39f2d805212aca57132525e377397"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/region/r.2.-1.mca"
+hash = "ab7d3e6472b200b00d1a0b3a86dba15e35907d7e5f6167f8bf23ead9e0ebb0e2"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/region/r.2.-2.mca"
+hash = "4073d9ffc2f49d8d96e1521be00e4b8fcb15c6e5d32ec49b3cb22e6b81f7b461"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/region/r.2.-3.mca"
+hash = "d4e0419bbe67ffb8b517c1c748ce6ae569bbf8b81b2c01ae6554ef96a5dd6a8d"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/region/r.2.-4.mca"
+hash = "e54923a2419981f56586c7d54a41c729d4dd6ed4ab47bbc7cb2f5e4caf5bc38c"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/region/r.2.-5.mca"
+hash = "127930ca87d8f747196f336c392e93374efcc8fbb42fc347999f133e88febd64"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/region/r.2.0.mca"
+hash = "d468daf33ea3cdaa6cffb07696a74e019ad0c8b45b24cf254a639ce2ea775041"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/region/r.3.-1.mca"
+hash = "ed585649503c0d2dc5220e30e75d492990df9fe439a288d6e5f38d277841b04e"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/region/r.3.-2.mca"
+hash = "02d668687728bfeeb2dc466c08bc2f19ce91ad8f4dda5babbfa59a0ab5ff00c0"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/region/r.3.-3.mca"
+hash = "add43dbe1defb57ec7382848fb824305ced3058731892332284cd3fd02c3fc41"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/region/r.3.-4.mca"
+hash = "a846662c792710fdb3e3842fe1c10e34465766be06403d0b089ab4015f1755e3"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/region/r.3.-5.mca"
+hash = "6569e7a1f71d8c78b49a4732c51649fea1a83294017b74c97618aafd3bbaa278"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/region/r.3.0.mca"
+hash = "f36f3d1591e6d4e1939c8e60a5864b24242aec1b1c7a034e412626cfa6159919"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/region/r.4.-1.mca"
+hash = "dfc2c8de070c1120a8fc2ded15eafacd400b0642c7eea9337004d0acf9828edd"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/region/r.4.-2.mca"
+hash = "93000e4396ad1a23c5c2f82401e563a1f8b77adfa8300f34db781138f78ae8d3"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/region/r.4.-3.mca"
+hash = "3d2b259a31ce1ae271dc16fa8c935929aae0e9919d5c43589086cd8e4b405388"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/region/r.4.-4.mca"
+hash = "4090c333aa953f41649300c6c67e577f3188a68b3b9174bac0656a9087b5e339"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/region/r.4.0.mca"
+hash = "5401fddb0c5ac99306face38ce6298431990468542202d9985096838e8d796b6"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/region/r.5.-1.mca"
+hash = "6ce97bca18fe099bd4e5006ca06da6099ed1145ae9f8df77fd1a33861e9067dc"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/region/r.5.-2.mca"
+hash = "549d2eced2d9b30f5814a590ba15f667fdcb7cc33c09d6961d66e0500b4a0501"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/region/r.5.-3.mca"
+hash = "16a693b289ae1c4d5fd312d7d0ae0cb6dccb54065825f1b8f8396a940e47c4a2"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/region/r.5.0.mca"
+hash = "fb846302b014ae5b85a823e73a509d5a3e7f1616ff266139a9aa045dc3d23f48"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/region/r.6.-1.mca"
+hash = "9578fe4f884a4f999494c696e848d6e2de90b81a37e265a855a3f361c2b817b3"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/region/r.6.-2.mca"
+hash = "b6f00b56d418d3d6852f2643b19f21c218578fd9d370463de4b766f96dda8b2e"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/DIM1/region/r.6.-3.mca"
+hash = "954a73d574f3cbb5c8eebb1acc2507bf231c4bec2c711e25f1865483612e4ac6"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/advancements/e10896a3-8df6-4987-97cf-9e8b1c1b4790.json"
+hash = "b86e93a5ae5400570695b910a482b9bddc53297e2b9dbabecef87a0db99dc19f"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/advancements/e660f343-90e4-4c6a-9a44-a85ef3aa225b.json"
+hash = "3bdc57c1ada92a86a7fae342ad21dd9be82a7a97028b5fffae12106f2ac17bdd"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/data/custom_motives.dat"
+hash = "ad1874d3b5cd1ad58ab7bab7400d7808b2f54e95363fabacb454755a89a503b0"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/data/fabricDynamicRegistry.dat"
+hash = "ffc52f822c9e1df303c87ee4d7a5fbcdfb5b546f14fd3bd0cc43ce6cec741148"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/data/fabricRegistry.dat"
+hash = "3f9849b25ca70068179e3b1a0c622df16af9ddcbdf13f5a20f45fa3c52232e34"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/data/fabricRegistry.dat.1"
+hash = "3f9849b25ca70068179e3b1a0c622df16af9ddcbdf13f5a20f45fa3c52232e34"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/data/fabricRegistry.dat.2"
+hash = "3f9849b25ca70068179e3b1a0c622df16af9ddcbdf13f5a20f45fa3c52232e34"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/data/idcounts.dat"
+hash = "e924eddb7d1c494c95f6098eb5a1f16e1005878940e163beb63384b344efda70"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/data/map_0.dat"
+hash = "8ad503994b05a438c7682fcf52afae24cbe9fb5ea5002b311a2b4052022d393c"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/data/map_1.dat"
+hash = "703117e3e47ff97abea09e91eaa5671686d9605f4abf3018967f98d2d229b2d7"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/data/map_10.dat"
+hash = "240bb76411370dc8b989d89b5e462b9c885f0c16007d673115c83821a626c3e8"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/data/map_11.dat"
+hash = "201f8abc8a549a34f667db9172f5b2e1fb634b7a4e077dc3ccc278bf1f6ed328"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/data/map_12.dat"
+hash = "dbd4271143add4556aa6b5bb678365604c83d9d15e43c80f519b2f87b0b1ec09"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/data/map_13.dat"
+hash = "3bff763cb672d57522259360ec181d7086c26aeae0f99536eb5b24d7f36fe804"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/data/map_14.dat"
+hash = "3bff763cb672d57522259360ec181d7086c26aeae0f99536eb5b24d7f36fe804"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/data/map_15.dat"
+hash = "7f978e128cab54d068ff7432e494480fc8c1d26b96259b7550977bd4a52c322d"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/data/map_16.dat"
+hash = "00120170d72be2b233631b9a17abbe8a0a23391def06b86a46377008f20b2a90"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/data/map_17.dat"
+hash = "6f339b53c98dd1aee5fddbdf9408c25e2109f1a59620a4077983c182c02059fc"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/data/map_18.dat"
+hash = "cfa02caa38a7e2b6edca22f3e21725ffef215639a9484c36ec0e4bfa86c6fad8"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/data/map_19.dat"
+hash = "4dcf91e9c3e3e2e8bfe7ca462c4665100e6499ce0a09e468c5a52e50d7fd1dcc"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/data/map_2.dat"
+hash = "fd3b3655873495a5c652b8a60273fb779cb136d5103ec19dbee9505552fa6027"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/data/map_20.dat"
+hash = "3822ff5b2c7c324ad48c310ad21ab7bfe5ebbfea43569df2aa6437b9809c88e9"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/data/map_21.dat"
+hash = "3822ff5b2c7c324ad48c310ad21ab7bfe5ebbfea43569df2aa6437b9809c88e9"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/data/map_22.dat"
+hash = "e1a12717ff5ab89841d462b5e0aa8c92e07cf806a51725a4a3ed357fe989bd8d"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/data/map_23.dat"
+hash = "587841e525448ffd4e4ac366539e345f7d96788d14f5796d99cc826323d3c38b"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/data/map_24.dat"
+hash = "6b6892c1545f3d22636dedf0fd708300cd368f659da410eca2d7126f77b02feb"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/data/map_25.dat"
+hash = "88395fc1db444d7109fd3a5583df76b4157b68f0f3a059bd65c50a129b2ddd97"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/data/map_26.dat"
+hash = "afca105159f22b2abe1df6a678e0f66af3f710cc434727f15c9035f543485f9f"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/data/map_27.dat"
+hash = "a32fe5f224ee94849f69495bb4103e28d95d531971c2cc5eecce47706c2a33ce"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/data/map_28.dat"
+hash = "9238c520690bf1cc1a6005bf12b5718a7e444f3170176cf85dbe1c35594ed03e"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/data/map_29.dat"
+hash = "b1b3398f3dbe35b849b11a8ab8757f8266269cfec2576d04012320361afd0194"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/data/map_3.dat"
+hash = "fd3b3655873495a5c652b8a60273fb779cb136d5103ec19dbee9505552fa6027"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/data/map_30.dat"
+hash = "287432752397c196e2ae75b4ccae845a9d99a03f4218af30cc17fe25092415c8"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/data/map_31.dat"
+hash = "b550ce4a8597b7c45512b5060443efd9a21f3f57ab420a6bc76d7bec23355f21"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/data/map_32.dat"
+hash = "b0386788c05cf52f5c4c479f5a33050791e77e3efb60b07a0762ce8b2e5c4455"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/data/map_33.dat"
+hash = "f8c68443393aaceb44b8b976c62a72de375415bc7fc2dcef373f71d0f0c21bd9"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/data/map_34.dat"
+hash = "b25520b4cfe3c812074befe15f376f5b31b27aed00a487bc95a96175625bbee3"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/data/map_4.dat"
+hash = "fd3b3655873495a5c652b8a60273fb779cb136d5103ec19dbee9505552fa6027"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/data/map_5.dat"
+hash = "f52db1a828520c4e7e46bdb1e269895873960a01b8ec9780011be9afbdab3513"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/data/map_6.dat"
+hash = "0a7a412633b8f0665e16695967adc01b3f0fb3f92584e03ef6c8e91919bf7c25"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/data/map_7.dat"
+hash = "7681156eb2c940c9bd706de113db2c6ae647482b85faa73bfeac33243c673406"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/data/map_8.dat"
+hash = "acc2f9ad60879c11d31d4681753f899c179ed21beb44e887c12b50e1cdb08a85"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/data/map_9.dat"
+hash = "240bb76411370dc8b989d89b5e462b9c885f0c16007d673115c83821a626c3e8"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/data/raids.dat"
+hash = "b626ff1f07c4d89bb3bdcec9e2c5ff20c7cfc9c02f56b362e94a98b9409d09bb"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/data/universal-graves.dat"
+hash = "c10243c569c874d312bea5afe8ab2f05b09d91261809ff94ffb5edf504318d82"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-1.-1.mca"
+hash = "48b8bb46374ba5dc82da5a9fc8933911dbbe7419311e079a5940d6876e3ca713"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-1.0.mca"
+hash = "e4b4a6ca013328017f36b17eef23b11e5a6f08085448c536e64569b8ec88e512"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-1.1.mca"
+hash = "0261abc4871a91418fadfd7d670baded3fe38b92b8d05f3e23ae106d0b871659"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-1.10.mca"
+hash = "64f9fe9602426c87e46a94c9c96e538d3c77f8923233e7fccdd0abd7f0f84b29"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-1.11.mca"
+hash = "a88b5d0dad6c532406587c59a0618132b72d326c8e0c4aa2d030884a95d64a82"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-1.12.mca"
+hash = "8b1d5d2861e51c8116b24901d0af58517685f7947157abae20a6e20bcf27a4c6"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-1.13.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-1.14.mca"
+hash = "e4dc2a3bd23c77f83f88b9e5460b6784fc78b868eef743dcaa0415d32e5890b3"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-1.15.mca"
+hash = "a78a372d4dc6d5d6cc4b094ab2fb764f330bf711b87d78c485020aa6ac9d04d3"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-1.16.mca"
+hash = "80439a3911c48a4ba659c3d3a8045ea9a7c12a910591af91cc4a703c21806590"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-1.17.mca"
+hash = "843457e004c9fb3bd0fdababd69220d1416cf9a9cf906685091235d3ea83a1de"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-1.2.mca"
+hash = "a92ea3b98cfe68b96c74a0a16b029de4c8e39c35bcd2e6985cb023689f3bc875"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-1.3.mca"
+hash = "d51a6355e97e70a5d254e8b84cc8aa7f7d6b506495a306d57266c3892662e7c2"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-1.4.mca"
+hash = "9e44ec31c57e16092af51b6b094bdc43aa6b8b7318cb88a55576a9e05ac2d1c0"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-1.5.mca"
+hash = "b81639ee591d30ad4b8ba7e31babcdd3fc169f20b976900afdab65d6cccddb2c"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-1.6.mca"
+hash = "ca7b7faf8140a093d89cf80dd4ecce8f7f25813345f94cd4d4ecb4d9110bbae9"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-1.7.mca"
+hash = "e9d5202deec21e163971e3843fa3223bb2798284f9880080d769904f50f5fdf6"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-1.8.mca"
+hash = "6461e1caeaf44406109bab54c27635dfe16a6d90e2ae2d8a7cd0d2ed7f9097f5"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-1.9.mca"
+hash = "79a3b880ffc28c1b5048b38792f4b653f26e3d59495774f2b3e067c7e11378ff"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-10.-5.mca"
+hash = "23104407ff8541aed4b2e8d950de9c33a802228e3add03b890bdb490ebf23713"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-10.-6.mca"
+hash = "06edf10399b54c45601468e99b9e53087560a8c667984927cdf7d7e2d2a796ee"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-10.-7.mca"
+hash = "1cd973e2e593b32558bd2bf30f7178ad6b3971f1475c6295f73da4e8187c0df5"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-2.0.mca"
+hash = "253ae0df587dfbf38265abc867531bcd19157714ed93d37bef17e3497b211327"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-2.1.mca"
+hash = "0ba24fecee83a384b113736872e5ba176119ebdfccf8cf194fe4a925af0bbcf1"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-2.10.mca"
+hash = "976e34873b071c2acdf58e78abfbb4ae5d258500c5a57ee6403febe91156c852"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-2.11.mca"
+hash = "8f1304ea897319cc8374a060e115457989ee1df246fa9a2f8983ce509fe60652"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-2.12.mca"
+hash = "93387997418be4e28eb5ad1082ee08eabac1db75ca614595fe741b1bc7a8bd92"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-2.13.mca"
+hash = "d1e01fc35e2c5f33911ae4f91024a82cad702eff619fc4f85b5bf7fb400e0d2a"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-2.14.mca"
+hash = "40b9420096a31a446326f90aa2cebca6ca40d4d00d62c25025b7b395692e4cf5"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-2.15.mca"
+hash = "8da0559a3143a6ef47d6dcec34776fd3863b552e70e6935531e1c213a98b5021"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-2.2.mca"
+hash = "bce1bd07415afe52606259ca592982a1760c07a9227b43cdf2839d3e76c0896c"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-2.3.mca"
+hash = "4a14badc3c2430acf597b0707d0178d46460a847c6b6e479efd5124057e47bf7"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-2.4.mca"
+hash = "8b7de97622fcd6cf8cba2527bc1e379ae1725e52d7f4b9d56cfda84753af4732"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-2.5.mca"
+hash = "4f752073f4196f48d1c85eaf29effe3af24f657cc480b117c360cb1c5c917f31"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-2.6.mca"
+hash = "ced7477bef622dfa6d3704ffdfdf3f41cf782c1c3030788238d4b6f62c417021"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-2.7.mca"
+hash = "3889c94042fad6cf73fdf29485e25c6012f9dc6db884374ac4260b7e823918aa"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-2.8.mca"
+hash = "faa8044f97fdf7cad6731f6028702b19c11d5770758833a4d26de0cbed3c0cb3"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-2.9.mca"
+hash = "46ed2085a034f2f668fa139b589dad9a917a37bf8a30d7192eead4f584613cca"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-3.10.mca"
+hash = "5e77a042136f2fa3a479250c8a6baa38e571201dd75b781df2f0117f7af12c04"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-3.11.mca"
+hash = "9840347fe684ab9c1fbf5a52b790068531e3980a9563682656be9e5259a1ccd6"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-3.12.mca"
+hash = "a6735152c3cf74682218580cb71c8d9d72bcc9b289becb0bc2d1b35feb5c38d1"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-3.13.mca"
+hash = "7a7a2860a60fbfacc28978da821ba51af5d32b3e29e21da3ae86928abc16aa50"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-3.14.mca"
+hash = "df5d5201fa0d181fa1068e9641de4834d56044fc1665ccf64e1d400875e8b051"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-3.15.mca"
+hash = "1103a975f10f707f5fe7e759e5b1338754b49f8f89d61eede42af6c6644b12a3"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-3.4.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-3.5.mca"
+hash = "511b280ec62255db0c219ff75125ba405376dc36e3f391183622bfd6a15b26db"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-3.6.mca"
+hash = "aec98c500603351a435b470211ed2a14d2a9f45241b66af544a1d952f093b6a2"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-3.7.mca"
+hash = "908a3f4df7f0fca84b6696869a606f46b5cd37d86bb32d01e29c1c68fe5a959f"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-3.8.mca"
+hash = "b1a13d5330fc8cfa2581c8ba2cbd6bd5abf18c27229be06033f35213bb19d211"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-3.9.mca"
+hash = "a0c9501583301dc4f1fe91796206d8e33d05b3c9af265ec7b08b5517ef7a8a16"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-4.10.mca"
+hash = "5b488e180f6bf32ce95cb5e44f1d4e8cc2cbf6a191e442f2d36a25a748d16c56"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-4.11.mca"
+hash = "c064e26ce0f6db842aad68adc1d74283802af844df0912643003e551dfa23c2d"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-4.12.mca"
+hash = "0c3d1a35780f1c13f3947f38a7b073071f55399212fb784092e39c7036556491"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-4.13.mca"
+hash = "94dccd48c7025aa99ea0c35b8ffe8a098b40584ccab376804eb13d0baa8e89ce"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-4.14.mca"
+hash = "fce3edbcc3509f259037396f460ef3aff705abb7d37bef05ae3fe9792dca2f17"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-4.15.mca"
+hash = "8032510523dccd0cf9c123c56860498592e11f5351815fc02fadbf3f986a7fde"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-4.5.mca"
+hash = "1b59cef64891954833768372e7c2c82c57aa40d44044fac06e8adecb41fdba92"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-4.6.mca"
+hash = "65ffaaebdfd2120ea41499acce9b4f891171d481ef94df7ebbbbc24d93676405"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-4.7.mca"
+hash = "3a3e2157f0cb7b2b39e59d22324090bd92deea81df86a09d6b54d4ab2e2bb503"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-4.8.mca"
+hash = "648ae3365eae34fd46f34e868d337b5ec0149fd65898dbd35c985546dc09c1b9"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-4.9.mca"
+hash = "b1493d4b54f0bc7be2f92848d238c2a32aa46fb6338e1371aa626f863dc6811e"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-5.10.mca"
+hash = "8d47e7f973455535f441c7d1250e0ce391fc6c7472abcb33a060fc9bc9c6d119"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-5.11.mca"
+hash = "ff67d07c6346703fa918ff7369fac911686e5f0e0db4af1748bf4a8b16d9e198"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-5.12.mca"
+hash = "ad4247b20a66aeb937cdd254ce7719438f249a55a548d70cc3b412e7d7eccf0e"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-5.13.mca"
+hash = "fe9c1add6fd50e1dd35c34e3255e50d32607322eec4f9c61d1941f792414d314"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-5.14.mca"
+hash = "3cc6edc6ddc90356e726b5930c473130fbc6e732b15ee1d028efd42cef669dc9"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-5.15.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-5.7.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-5.8.mca"
+hash = "98892a83a0f2169b4c29b5cc67e5ecd07b463f151f95421807a8ce6ffe0a2c99"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-5.9.mca"
+hash = "13ad3b11ec88ffb4591f2dca6b28128cb01b65d66ee47561c782333b1de26280"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-6.10.mca"
+hash = "6923e808deceef3dd2ce9efbc1bb5a28f4a835a4a4d3fb0a4b437eee2b54bc02"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-6.11.mca"
+hash = "7bb69a549a72c7c413aa263ebebff4ae2ca077e07b37d52d90f8eeaa6f1c7ac6"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-6.12.mca"
+hash = "b8f93321217121102e3b4ba1a407550fe7f89268d4e686dd11ca99656ee866d3"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-6.7.mca"
+hash = "5b7ba907ff981719d0b402b210551efb385f0b2973cb58622bf13f2b72da9441"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-6.8.mca"
+hash = "fd7a347efae3cb2417bdd67133e8486ff806e77919b8ffc5391f9c95eb4abea9"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-6.9.mca"
+hash = "6ea4c96c5f481b86f4edc4ce3a094f5baa781db9efca04ca8ed56c272a048cc2"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-7.10.mca"
+hash = "2ee9145f77006b55abb27cf029a6e3a0592bd2cca032ac6d8532a2e3d5def6e0"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-7.11.mca"
+hash = "c6b6919b6d8d681856601f76c59f05a7ff0ba1b412932269ea0fe3c12f1ecd23"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-7.12.mca"
+hash = "ef2b8cb451dc0d90a270b557725685eac925516c5d91abb0d2d924766e60156d"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-7.7.mca"
+hash = "1477eddb2a5b006bcec0755e7d0ca7c14f001cb768fd650f0dec545860e5b73e"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-7.8.mca"
+hash = "7ea1378c23a2c3232f79d904dcafd812f5368b8dd07c823da805d9e3821471bb"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-7.9.mca"
+hash = "88b8d5a8dda3d0e1c32cb16086df1ee68b81e3210242443450c3c01c8692a9d6"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-8.-5.mca"
+hash = "02c22ee4ef58d08504eea51f8ef061af4621dfe9bd3568bdf3910b25a9858f00"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-8.-6.mca"
+hash = "765e29b6f79cf6481fbf5dbd54cded02e44e7172d5b23faea6a124f91c86eaeb"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-8.-7.mca"
+hash = "3b60cbe739af420d6740e6a96c783ef998826d38386b103c7486c414fb500d2e"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-8.10.mca"
+hash = "de984105c2cc63bebd3a05b500013add4898ded2daa06309c0f7c8a6c5e5b3fd"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-8.11.mca"
+hash = "16b35447ca1da936b776985cb5eae8db7d1da8d7111a0aa7e4ff2796e792be70"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-8.12.mca"
+hash = "1850ddb4b1a56ecc35cf00b34391885d770a2bea8b8452836cb55917c4144e42"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-8.7.mca"
+hash = "ba12844e73a92483bdc62d905c64039ee002fbf41db53fa66168a413b14d4a46"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-8.8.mca"
+hash = "36f76eb731fb2d6378d21671a92e05fa8c0b8195b68264e2904b1f3483c06451"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-8.9.mca"
+hash = "6931a96877bddead24ed3c30d7861c4e9e7d7cb2eba0f7a5f9695e50aa3f5142"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-9.-5.mca"
+hash = "cf33a670be26842564444718b0055a9c12365b3c122da45e30e85554ea440d5c"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-9.-6.mca"
+hash = "5364287eef3f4bab401ab1e991189ff68e05c9c28db9f7353bd4ff685963c438"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.-9.-7.mca"
+hash = "d4887275d7fc75320cdf1887bd50f0565e8010def9a3b12b4b19bc23c2936cf3"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.0.-1.mca"
+hash = "368b995666f9b68e5b30d0e905b8eb2a0d9961738a84773d4f3e542b198677c4"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.0.0.mca"
+hash = "def0000053cde0ecfae7aec09bdeb0853df5f12c9575796e35a7f69860518dee"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.0.1.mca"
+hash = "e6a59d67a64dcdc065743d2d53b8299eb078e3f73df4d5257993f9cc70debd09"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.0.10.mca"
+hash = "59be34cffe6e2aa1743be43cd7165cbdb41707b526c020048a0787405afe21be"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.0.11.mca"
+hash = "fbf3f0748ddebe804d840c876e293c6fa607d049745e0b8ec75e20de8adc06ed"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.0.12.mca"
+hash = "1143be72812e622e5a8027d0c121928f8019a3c35d19bcc81c5067de1cea0755"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.0.13.mca"
+hash = "28520fb865997ba2f7ede231022e5cc13db81539215fef6e7345dd62f4ab10a2"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.0.14.mca"
+hash = "a4c73c5caba6cd1f2a9ae2e180a2e73a9d5d5019cb3b4301215daac089874c6b"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.0.15.mca"
+hash = "3245616e22209d4888af008903db6aafa8feff40c6e42df156b0eb679439b05b"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.0.16.mca"
+hash = "e2dc85dd3b78491b5b728db18e83ff77ce5021cc711757b41f6c54b84c72468d"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.0.17.mca"
+hash = "3415c3278e2068cbff775ab5d8cda795caccf9c59e922c9c4ec7fcca3f2b424e"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.0.2.mca"
+hash = "43013dbab054875fd34ea59a9467658efd6302d0052e7707b6472c05ce33c012"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.0.3.mca"
+hash = "495aad86a9a1a08e15cdf80727b8ca0c2bd4a9f22b14daeabf14c78acb160b65"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.0.4.mca"
+hash = "19234d5a014e720bcd25ab3d9486b2a357da484c8105010ae925b5e552f1e14c"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.0.5.mca"
+hash = "3aec99f74ccdb9a438418548d00caab4d1e939cf416849d02fc1e8e83fcdd101"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.0.6.mca"
+hash = "5d18f47a83db6c6e0a95279b025bbc292374b4689f59c23c1a9bf39496d3ea1d"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.0.9.mca"
+hash = "ce49bc11948ef1766054dfbd35060fbece635873de3ae43c0c6301862c293fa2"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.1.-1.mca"
+hash = "2592e9c2ba5f5e422f1e8302d8d8b9045369b6c2ca3f81a7132aff15a5c99404"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.1.0.mca"
+hash = "9b9aae1786f1a35d624b25ec1c494f101712537bdd5e00e8c05d198312215392"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.1.1.mca"
+hash = "770318abba2e0f5937581a0be8f6d70270fbe181f5cbaf5d65da5ae08a76f5d5"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.1.10.mca"
+hash = "ccec0b939f8b5e0f15267708373f84e4ed3e899de31a01f4d0f3ee5b0480ed72"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.1.11.mca"
+hash = "eac0c99e3b6a543942110f684bb05422c5e9b58ac6a9d19ac495e87f9db65384"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.1.12.mca"
+hash = "32816fe5422b8d3e170bb8f0a3ae25231350e17286203febdf5999f67731fb6a"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.1.13.mca"
+hash = "d8d2acb316b9ee0903d4206b8db7f5b8666b69eee128384c09a6ecefd31883d7"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.1.14.mca"
+hash = "8e5d4d45c18f237fc9972636f79e4c6023e0262f42da5b74f5c62e10dbf738fc"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.1.15.mca"
+hash = "d942cb34c86fd2514a8175cbfb1f0e956a334a9b805f2075e0997c94cd8b35f1"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.1.16.mca"
+hash = "bdd14178460847769589abcb27058aa7006fe3c985188e74a7395a96bbb1d7ef"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.1.17.mca"
+hash = "13d78fd587c2c8df2125a46834f30cca1c8cd053e2742a27e1bc3f42496c45e3"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.1.2.mca"
+hash = "7bd2118c879bcea5ac9a55d4c46ce64bde320a9a9e4de341a40a95939a36299d"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.1.3.mca"
+hash = "ce750c88c6b8bf58bb5f4e0764fb6774d5a54dde58232380c5cf636fc99165f2"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.1.4.mca"
+hash = "bc9832e3a922be508ad63ff16f90ca799e90f4d2d9d6d1370e4cba8c24e99a2a"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.1.5.mca"
+hash = "9e32f45571e5caf64c5fb6ecd08ccbf76a9375ffbf18463ccb9e0b318859fe51"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.1.6.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.2.10.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.2.11.mca"
+hash = "abc9b111d313e48b7c4363d5f90e8bbe1673a3d17638fa1b56af0970629ad510"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.2.12.mca"
+hash = "920ab04eb2624135399f62c86d24d60e26333da6e1b8db15926c6900eb8a75c7"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.2.13.mca"
+hash = "6fa4f7dc5e40883a1bf8744fd092772e685b2ada04029e25691bd9e57b7d9703"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.2.14.mca"
+hash = "345860d5594232b894c201d74cb4f7fe408a96494811eb8853c8a79c1e55d93f"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.2.15.mca"
+hash = "0572ad29c273be5a43eb3eff6574032885529f151f9621ba1953ad06df1d09e0"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.2.16.mca"
+hash = "2ed2e30e058c8219724e5f1dfc4318ca5a69190b3f589957b780bebd555230ca"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.2.17.mca"
+hash = "44da5c74dbf9db2aa11711bf999161818748dc93fef1fc7192bde7d36df0dfed"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.3.10.mca"
+hash = "97a39c5cf34fd4c1283f20270ddf781661c82e8867b479d66e049acd83b448ea"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.3.11.mca"
+hash = "abdae675dff185d9b3dfe31c0ec6ba12d14b8468bc5e74e72a6202ff6dad3023"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.3.12.mca"
+hash = "a1ee77d5cfe179185ca718cca58e5e7d0158faf79176d201eedb9ef5e8ed1bd1"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.3.13.mca"
+hash = "6bcb9b0a2a5024b3ddc6a9095a1ead7e343440fb5544d44e92c1f746fb722513"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.3.14.mca"
+hash = "5eee40149f223bc66ab641928c973a25da6c41dbfc220b5e98c45edf288d4676"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.3.15.mca"
+hash = "4bdf8fa16f2fc47afe45a72a7ef7693415025aa266db777ef702edf6d18c9038"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.3.16.mca"
+hash = "46226adeb93867af8556120c2fe5f00bf73351eed4177687acbaa27a1be876b9"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.4.10.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.4.11.mca"
+hash = "236f2fc71cdfcf0381c898c8be0de9c7ddf0a45fca91622f88089895ebf85628"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.4.12.mca"
+hash = "354308cc563a5658686e844c2bc6c39b8f0e8fc3685acfc4e071743a2b8feaf3"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.4.13.mca"
+hash = "b074febde193dc2445d093d1469cb4149871e4e2b2893b16809fe31416fe8ff8"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.4.14.mca"
+hash = "ee0523a6f80946b59af6a37996e097167499e30227b0d092be59cf14087456c7"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.4.15.mca"
+hash = "3bb3147c035135b0b922fce2bdf787763301be75989548a0a855a89a93b8cdc8"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.4.16.mca"
+hash = "eada38eacb27dbe44dd609c7f921fe11b1488afb300ffe7232d64bfa4c88e41c"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.5.-2.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.5.11.mca"
+hash = "32c100bc1376622523a94f1cad465230a477f241a4303870c66ef3cc8c4d8454"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.5.12.mca"
+hash = "4fad75ae7c86922212a4347f88192b4890fa913de891ba6d575beb2cf05bb183"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.5.13.mca"
+hash = "77918e335d82bda5cd6403ad080d1f1fe26d640876f1e545fdd36a8040999293"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.5.14.mca"
+hash = "fc8d4d8fcd50c2b95200bcd9b381bc9d5a87101eab33caeea5ae28db4342f493"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.5.15.mca"
+hash = "eba742fb943a1567cdbe585de5fd2b30275068491d0ff8d05dbf6c5543ad848b"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.5.16.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.6.7.mca"
+hash = "6c256325effa2264d21fb1622363c5e0caec98c7f246ef764dde46d5e3cd761a"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.6.8.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.7.7.mca"
+hash = "765455a4809b829174fce811737ae619c7508b36ef84710ee6db1382e3d801dc"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.7.8.mca"
+hash = "eb65de1aecc5e56224454734d72e0604eaacd8150f560630a6b4234d69058965"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.759.986.mca"
+hash = "03a2d238a7ae3bbb387023278c22cd8469fa74209c774f65ef1bb8d97f2acc7b"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.759.987.mca"
+hash = "9853dd0307e708670728257d72395f49a6ea8e13e5bedaacf7aafe9d2816fb08"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.760.986.mca"
+hash = "905667865f47ed4abf1b1cbc5bfe4bde645adaff2f32a6bbf5fa8213d3bb5dd1"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.760.987.mca"
+hash = "64b45e7b7ba9993d285be298eb572d9cd1c2429ec91e80c7f5c6da0a4f31d74d"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.761.979.mca"
+hash = "acf4afdbf0522b85990552392b2e380daed5645f0f68c0a03a9e710f40e02611"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.761.980.mca"
+hash = "aadca7ecb65a2e7701327ffc84fb8c70f2efcbe6868ee2caee8b3d7f36490231"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.761.981.mca"
+hash = "45b6ef1a40879622a4da0c335bcecf7b2628a72d4acb358b5a5db42aa9c29d8b"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.761.982.mca"
+hash = "8156834d1baadedc65224e4ba660ff007b0f67fd72e00fd7aa528006b4e3e211"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.761.983.mca"
+hash = "cef813a49d7e1f7f42b901c3dbb3682fc838be2edd57309481ebe73b387f169d"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.761.984.mca"
+hash = "ca23da9de5db98ce0c3c3240e1b788f2957abfaddf58663e605c76ff79bc0e11"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.761.985.mca"
+hash = "05a1add88ae9e243fb5946863f33ef46d02cbcf670e1f3a17718490dfb7c2933"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.761.986.mca"
+hash = "a07123d32811daec7c78572fc7b294a650c6906a95d76d70d92d1cc955efc930"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.761.988.mca"
+hash = "864608cd09af0332d50183e0b99a0660860b817bb84f0d1e052adcef875f76f6"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.761.989.mca"
+hash = "908bbc6b418840f4c31a9f98c89b93edf8d30fd9ec0847a98ef9254b74bf301f"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.762.979.mca"
+hash = "3ec61c966ec051af4c759ce54ed1d74ff8780a905574a1d390c86bb462445b7a"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.762.980.mca"
+hash = "f528d0287854f57eb04275daadeab6fc780d3395c6d2582c671cbd791246d607"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.762.981.mca"
+hash = "5e8233b506ce3e9baea247daf1f3a11aac2cdf20944789f2a432dbbfdad85b01"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.762.982.mca"
+hash = "3d87eb4b0f21c5fd6a9701518b6c2e9ac34e425e21c1057a3927f11a07e2ed84"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.762.984.mca"
+hash = "1c2f947fa6faa72ecfbdd0d63484065d2b7aa7c5a974271f4ba16f4fffb15f01"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.762.985.mca"
+hash = "4ec80edfb3ae20f255cd9feaa3bde4547fd6bc575010e86b3f66948ce01548e8"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.762.986.mca"
+hash = "0a329e32397473648abe154d5a3bd233544b9bc4cf9d0bd2de0379b430f62332"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.762.987.mca"
+hash = "ea1074b206931f8867a022ed17202923d372bdb5ebdf67c96adcc200515e58a0"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.762.988.mca"
+hash = "0a1ea3d2c93138fd8692d61343d59588717e16bb8e98d6524cee46ba2106e202"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.763.981.mca"
+hash = "8e67019d90592143b2cbfd7bf0152fcbd6973cf9083901f74b19c9238a0f8335"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.763.982.mca"
+hash = "beeb5b0872c0c2e8bb06e7b1093570fb13f3c62dc6ba363355aed3584b3f8cd5"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.763.986.mca"
+hash = "3b3fdb522ae15ad73715cd6d8908e7657a73aa0181c4143efa3157f3f575d0cc"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.763.987.mca"
+hash = "93c9fb3908e22628c6d2a5adf827618024cea39bb42440c7cf3ea08dd2038a4f"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.764.981.mca"
+hash = "63bc2262e03155f31e4c18708714494afc53fe66833c5e8b3fb7541e17af7acc"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.764.982.mca"
+hash = "b19c5421b2d0eb505309075b5e67b3cee95c2ecf9b58bff6de5f7ee23818d9fd"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.770.976.mca"
+hash = "631b16e491b71eecfdf2255e795afa9dc3ebacfb5661b4f0b3f51c935371e98d"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.770.977.mca"
+hash = "ede9499981e8b9b6c497b80189fd420d688c198d2dcba67d08395255095cf048"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.770.978.mca"
+hash = "a02e2d32725dade2376c568e25b0ac6cf4ccbe6194942c22aa4a0e0088c2df91"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.771.976.mca"
+hash = "ce78167ae2114becf9700ca0478fd3a73ad0359a8919f9682d5db736fe0f5400"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.771.977.mca"
+hash = "ee9c62c038d7cec695503dda9167f75dea3b9c6326541ebeb6c06b46afa1b76b"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.771.978.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.8.7.mca"
+hash = "e50e444ef902acd3fcfe165a5c92f00e4e63491d61866c1904527fa6ee148f1a"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/entities/r.8.8.mca"
+hash = "117119d87e6f4ef2f1524bf4933a20cb7cda615fbf72693ef643e02d805fe148"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/level.dat"
+hash = "7fd403bd829a87a37db8bfdb252e9e91f48e82e90723037bb709eadd3829d43c"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/level.dat_old"
+hash = "003f774a551185012753f3643efbff5a151d2c57ddcea62f12bccdbb873e2ddd"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/modplayerdata/e10896a3-8df6-4987-97cf-9e8b1c1b4790.dat"
+hash = "f1f9484f41e78205c53ef02cb8e7b9378aab3b036dfdc2cce4678983a61ab819"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/modplayerdata/e660f343-90e4-4c6a-9a44-a85ef3aa225b.dat"
+hash = "d9bb9ba3a5a9acd0c8d1f15f94f621c424dff52974b8242763d9196b43559894"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/player-mod-data/e10896a3-8df6-4987-97cf-9e8b1c1b4790/general.dat"
+hash = "5925b958dc27fa75c0c9572b8191295f21a1e4a4529f803546883e0b1188fbbb"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/player-mod-data/e660f343-90e4-4c6a-9a44-a85ef3aa225b/general.dat"
+hash = "5925b958dc27fa75c0c9572b8191295f21a1e4a4529f803546883e0b1188fbbb"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/playerdata/e10896a3-8df6-4987-97cf-9e8b1c1b4790.dat"
+hash = "997859cf3d1aa956bf15391479c27d890a8627a180a593464b2fdb6378561c7b"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/playerdata/e10896a3-8df6-4987-97cf-9e8b1c1b4790.dat_old"
+hash = "997859cf3d1aa956bf15391479c27d890a8627a180a593464b2fdb6378561c7b"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/playerdata/e660f343-90e4-4c6a-9a44-a85ef3aa225b.dat"
+hash = "a6b2c67d7b408718be077df9762b0e10d1e90bf0b7bd23a63299f0a5a06a8134"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/playerdata/e660f343-90e4-4c6a-9a44-a85ef3aa225b.dat_old"
+hash = "95591d0c499db379b77514abaf0f51cf1060672a61cfbdc9a96ae4cc5532ba47"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-1.-1.mca"
+hash = "9fb51cbd66d62783699abfbc24f6f56bc22efb683c4d1a57ef600a4346249cc1"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-1.-4.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-1.0.mca"
+hash = "c866e6a24ee11d343f6022fa233c3c28aa097847f97e77328f9fe3a7dc0e543b"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-1.1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-1.10.mca"
+hash = "8cc4d5509efbdfbf57deb2b477d05caeb50643995e8f8534678c8cc2d2f9b834"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-1.11.mca"
+hash = "228de75b5e3126b19bbb5e43c1bf82d07639a87b14bea86894e315da8daef356"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-1.12.mca"
+hash = "98f1145508ff609041fe698e31ecf50daef5d42bea1d32fbcf384b0a95402db9"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-1.13.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-1.14.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-1.15.mca"
+hash = "9937a404eb896d5ed0584dafadbdc56b415c4d62e23ccbaf9c6bcdd6f2d0de22"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-1.16.mca"
+hash = "565fe331aeca350738c725c70e26e2acfdce8195fddff8a7d381abcd367afa31"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-1.17.mca"
+hash = "85149aea15afe873c8bb09b762e9cc451cabca5b875e94c3e9d11907ca362849"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-1.2.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-1.3.mca"
+hash = "feac690ca7184d26a1752f76117df0e7164b6c8524935fe7897cbcf3361fbe27"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-1.4.mca"
+hash = "d7169e3503454927353310e7332cfa7b4a087570cbfcc1fb1c9791177ff01ae3"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-1.5.mca"
+hash = "4315ed0358f19e8094892c75432448b5fcfc4d6712508804f9881599c5c871f3"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-1.6.mca"
+hash = "f89f5704eac1593574d2f3b6c2d09af8e1bcb28fc67d10e6aeb7eb52139fb6ec"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-1.7.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-1.8.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-1.9.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-10.-5.mca"
+hash = "0bdb05f899a3e693172ec01035060e64cb0e61a22aa49465b90bcdfec96bdb0d"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-10.-6.mca"
+hash = "340854efd7520c118773d4c9eb9d3f6f49a34b6ec9d9c5b0e851a5ef1ebf54e7"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-2.-4.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-2.10.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-2.11.mca"
+hash = "b5cc3d9274fc5390e20d7f7018b7873527d2a2fa31018d3f5e49a46768629b04"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-2.12.mca"
+hash = "43ee0aaf38fd95dedeb6bea82ae77be0a1b02ae1879177395a9ef65e9a16aee6"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-2.13.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-2.14.mca"
+hash = "e6e81f682fe06c522726f0516c5f02e7102015fd57bd4b0747b68feb4d3fe568"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-2.15.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-2.16.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-2.17.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-2.2.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-2.3.mca"
+hash = "c19c854ce69f4781a8187e3a773c0e724fc4f0e31f1dd56464fce2a784715d48"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-2.4.mca"
+hash = "09aeb78cd7a5b532783a0d8373c9efb441e1895ec2744fadaed1407697a7412f"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-2.5.mca"
+hash = "9c6afbaae24226872afb8eb7b4b8e2bc568c610f88135575ecdd5c6c23860eae"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-2.6.mca"
+hash = "3a0f889a710c1aeb456b3f5cbdeb4774bfc4ae9b42df1aba042f900fc7b75cda"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-2.7.mca"
+hash = "21c6a1a7b659170b64e8000e023a5869a0bd833f1fdec2f9ab59c435aeb193d3"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-2.8.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-2.9.mca"
+hash = "f6b0621c31a2e4cbf34d367ca01e4d0d8989dccfc5390d2526fb6a9758fa6c03"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-3.10.mca"
+hash = "939f0e1d77bda5acf33cb27511edbdf98f794c5c1efc31d77bd72d735b8b00ee"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-3.11.mca"
+hash = "f8725758445e2c8487805b74325b945971ca64d8ca8eee5dea835b7dd11f5321"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-3.12.mca"
+hash = "58f88166234f4c5f41ff1b493e446b1d7e49bd23447f46862a151df0bd8e7201"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-3.13.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-3.14.mca"
+hash = "f1a91f5ea87de27000bd436c44ece78fdd59a71631555dbfdb0e19372add0a5d"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-3.15.mca"
+hash = "b9cd02d8179abc1af7cc8a30c05b96b02188ecd64b2269a7080a0460212c6e7a"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-3.16.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-3.3.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-3.4.mca"
+hash = "b6a305cd8e31b1b5b661c0bb2f8d11405e83513f286004c808928ffa2aaa9e05"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-3.5.mca"
+hash = "e098553bb6c4b728e17971c181d77487946ad32d861d4b7cfb84a9ed51394ddc"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-3.6.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-3.7.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-3.8.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-3.9.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-4.10.mca"
+hash = "95f4bfdf74c04891af6156ff685a8ff42dcc17997e9d8f74c1c5d05306fe980a"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-4.11.mca"
+hash = "bcc927625da393e63cc1724d3ad707e65ad81ab8857e913298dcbd377cc3bdba"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-4.12.mca"
+hash = "cd97411689f66f4da544154df9d6768d3c321a6927c5944856a7d312a0db3027"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-4.13.mca"
+hash = "e737af9dfe30ebd819f8ae877e6355fd8d4c02f4c60222e4630ae937836c191c"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-4.14.mca"
+hash = "90bf907d85227dd9cc49c85e177ccb27f759f15712adfb85a091b9e5bcd5c61a"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-4.15.mca"
+hash = "e68a29f662fcf39ab2f0aed8e2595a1d17d6297814eed428af56f7659daa9bc9"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-4.4.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-4.5.mca"
+hash = "3c736d0b8c7c1ead1a794316c03a040d318d92e2f63a87cbac48f87381ca6bf1"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-4.6.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-4.7.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-4.8.mca"
+hash = "c8662b7a16d140b8cf42286c6c146f556be9b3575a4813c9de00da4ee7c86cd9"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-4.9.mca"
+hash = "0854a8db144b52c43a139d970ce5602f94ad514dce2fb789326e7b5feb1aa4d1"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-5.10.mca"
+hash = "07f4e79fcf4bd29834890f3a87ad1ad6d66079dc2a35a6edc307d3c06e02c8ca"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-5.11.mca"
+hash = "f3bacc2eb45af624d1ab38b38c867fec76896e7d72aef45dd117a994b2aaa41f"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-5.12.mca"
+hash = "f5e67a961f2bc08512cbad210f41cee5c1db46c316dbc7e88a25b0f84803612d"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-5.13.mca"
+hash = "78dd8d35141e099958c8c224040d8b01eefeabeb49b965daa12ffc143dfa80bc"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-5.14.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-5.15.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-5.5.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-5.6.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-5.7.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-5.8.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-5.9.mca"
+hash = "4425febd12c34ffb1c91d0eb9041ee4c1a230b157eea17417d57a0d2f84eff8c"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-6.10.mca"
+hash = "92297febb24c7454e7cc897aa9352d1eba8342c0d72abc817ff6b9793efd71d7"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-6.11.mca"
+hash = "d3620001ef06937f34c990b9e72e400091f4550ac11b3f396d59dfe19b7c2dea"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-6.12.mca"
+hash = "bd58d4bdf7610ed8f99fc3161ee0d82217faeb65c07a54ce467f94730d9812dd"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-6.13.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-6.7.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-6.8.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-6.9.mca"
+hash = "fa600935be776c98252f89a6eafd42ee23b9111bd9feb21e4fe335fdbdf57a41"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-7.10.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-7.11.mca"
+hash = "3cdd070faa4d5a0b08de549385906b347a94fbc84362c43a0707eba93ddbb423"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-7.12.mca"
+hash = "ce4107b2826176241adf6ecea99cdaf210b27ed601ea31f435bc6f050542305f"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-7.13.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-7.7.mca"
+hash = "7c7ca6b92b2686109f2bd5a20de04f8af821b430b6aff5a45c72b4f1950e2c21"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-7.8.mca"
+hash = "f081a5ab581910d4a3760d6b70eb05d85af37f8e5abe654cc0fc376e090c63ff"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-7.9.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-8.-5.mca"
+hash = "214968e034aa3154744ce51e910860b4004325d7f26c0f654c5b0c3179bff15d"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-8.-6.mca"
+hash = "f766a16307c7484461ec846921ba826ea272caf71e5c48d94051d2191843eb48"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-8.-7.mca"
+hash = "b1f6f259829a8bcc2489d6bf2560757d6a9bcb0ae86fa0c137f1e6517df4dfbc"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-8.10.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-8.11.mca"
+hash = "de83076ef8c382a002add69163caf88c81196126dd46a9fd45982888b3e11a16"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-8.12.mca"
+hash = "227b4914c84f00f2a8204981466f61d1780e5971a70f067476c2a2b87bb72853"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-8.13.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-8.7.mca"
+hash = "3b6f203520a398ff35c1f311bba582c2f7a4110d93fefa62eaeca0397cf4828d"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-8.8.mca"
+hash = "1f25201e18a6e1137654d61f4d6fca8a2bb092a502ac9a39d13a096fc18532f0"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-8.9.mca"
+hash = "046efa06e594c2b4c35473ed3c81940aca4ec17439a9113e221d2dc9eb21820a"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-9.-5.mca"
+hash = "afa7c3dca4278eb9c3a14b397ab79fb020af3a4db45a1b7caa25d8d9a4bb1bfe"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-9.-6.mca"
+hash = "d12104daa0ce282377d571add63e791b71b6dd8e9f37f1f0940823e56d89806e"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-9.10.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.-9.11.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.0.-1.mca"
+hash = "1e132bc22f300841b9b2a29c3750f0d9745881b8aa3f8580dd0bf63d7e393c02"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.0.0.mca"
+hash = "a040a3c81d971e5eba7c31153ac76ded1b25af29900ba87cfe4f9afa0fba0ece"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.0.1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.0.10.mca"
+hash = "6ef1b2af5b3c5384634a37798541f118bbaaf51d307dad465082312661395836"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.0.11.mca"
+hash = "ffb672c7d02ab5378aa3f1d3cbe2d48c264bf27c1370376f204bb02e698a2d04"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.0.12.mca"
+hash = "560ec778ea4bb7cbe7d9fcc014b561a8d55d2f08a96634a0c72d1126a254e858"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.0.13.mca"
+hash = "a73166931989394410fadf56593f25c19d5bca653924d46842218ab1f8db25c2"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.0.14.mca"
+hash = "ed8866d18a3917cc1e10da84e5010832e82f8fad3a20fd41547dcdf1bfa2920b"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.0.15.mca"
+hash = "f90443c07b0ccfc64280d1f6a0bb9b1b838b264ee26c0afbccef4c0c14781122"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.0.16.mca"
+hash = "1d3db80a51487f1943a2347cd99958d5780019152e0c722d40926aad6c904c9b"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.0.17.mca"
+hash = "3e919247e26a475f12860cc5fe4dd13310a728a70fac60bfaa516abb89520e18"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.0.2.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.0.3.mca"
+hash = "863023de6090b2e6c4c85144f61774d43ef938571ee42a02344a2713052ef308"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.0.4.mca"
+hash = "abc75d76775ecfb711131c2e5541c66f37e49adf0789c3953f3516819497a027"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.0.5.mca"
+hash = "c8442fad152300a15cb988953d6b8d85caac55a3c530a501b0ec8d72c8f10b29"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.0.6.mca"
+hash = "6de6b1ef77091beac4d3c81efa941f3eff5274e822365b9bd3e34122e2e7f4f6"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.0.8.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.0.9.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.1.-1.mca"
+hash = "bebe3fcf24432f515eeb14ff650ff670d9c11c0522065b617e77ab8418eec714"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.1.0.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.1.1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.1.10.mca"
+hash = "a3811ea78ccb81b6c24dc6e8428448fe6cb485ba9ac08b6b5b3eb06b2425dfcf"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.1.11.mca"
+hash = "6bae0afb72c666b70c4aaa4bace28c0fbf970a68da571f69450615d8cbb14bff"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.1.12.mca"
+hash = "8fbac1e34badd8219eefe97fafc2c264c19fb0d7be0660d5d40869a799532616"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.1.13.mca"
+hash = "cf1100b1b0bfeaf073a4478f7a59dcaf286153a42f94080f72865011c89cf432"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.1.14.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.1.15.mca"
+hash = "2b480a408dde9375295048922108ec0701293388fdd15301093ccfa3265dfc53"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.1.16.mca"
+hash = "c16a3be1f000f9e31064ef247d6e0ebd832a3929ffe11bb6d740d54678c8bbcc"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.1.17.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.1.2.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.1.3.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.1.4.mca"
+hash = "544e82ef04ce06a405298ebdb17c0ead382c4edd5152b6a9faa84862c83758f2"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.1.5.mca"
+hash = "56da105a289f3d5e68abec1c6bc45331b5a4783e09d80636cbb64039a75adba8"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.1.6.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.1.9.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.2.10.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.2.11.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.2.12.mca"
+hash = "e5f1d91ed3739557ae9d1b818703e1afd33a6548547e29b6ea4d1af92f8a9d61"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.2.13.mca"
+hash = "099155d8df89621a77203d571b2a3a74197be5b9f43546f7ebaa6200fe1f71a3"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.2.14.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.2.15.mca"
+hash = "f69eeda404bd7fb7948597d9fee08d5ff2d396c51ec0f48b6ed61e6618cac01b"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.2.16.mca"
+hash = "41989419092822a883c6c790f71b9d722eaae26cc618f287f1f652b40f4a78ed"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.2.17.mca"
+hash = "e00c82f36932c7e8580f1c4c58685068b1801ab2568a74787de6c765c8463361"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.2.4.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.2.5.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.3.10.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.3.11.mca"
+hash = "5d19975763138827260eaf0d40f3a28005f8cfeb27772e4cecfe6b8a882936fe"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.3.12.mca"
+hash = "36db709b9eb25c47e1409eae9e6ed25e9e2c65b95cb823cc542715ef0f9800a6"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.3.13.mca"
+hash = "5ed21cbc40b97ffa0d0e661d2ac3022399af541763c3a2ac78215498e620a87d"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.3.14.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.3.15.mca"
+hash = "c606ccaee6aa473f1bfecbc1a55fe3ff84d11d8b72a51f2551001aec51bd62a0"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.3.16.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.4.10.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.4.11.mca"
+hash = "7afde0fafad2f16f89cd675517f999907de63e143e34b8d8777626e004b54541"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.4.12.mca"
+hash = "edc0632847a6893588962b0401eb194c42098a2f69f84aa36d2ab0c48c4ccc07"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.4.13.mca"
+hash = "5244d1f4634a68c3a20007a092375e535e9006ef0d64c11ac11f2012157fc08f"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.4.14.mca"
+hash = "64c7d93fc55c8c4b163397130059c0812556dd59a9202ef8fb2c31158be5e163"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.4.15.mca"
+hash = "661470a06248b06023ccc3dcf0f47cea85fc26107c32a335a965d00045d0ace6"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.4.16.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.5.-1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.5.-2.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.5.11.mca"
+hash = "031a9d68dd4dc5bd6a553210b7decf1ea03ee2ee5408668fec7e0bdef8f03326"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.5.12.mca"
+hash = "8ab2238933f1e133a8686a69192862a46791337a79afe3b0b75e24142962b888"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.5.13.mca"
+hash = "4a20b303358d59554f10bdd103b8b40efb2aba80632b9ed315fc17ea4d304e5e"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.5.14.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.5.15.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.6.-1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.6.-2.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.6.11.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.6.12.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.6.13.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.6.14.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.6.6.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.6.7.mca"
+hash = "3ee4948c9a0aca853c6a7bf24eed6a588b2ff322e7f5c7acd687d158bad44f02"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.6.8.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.7.6.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.7.7.mca"
+hash = "aafb38aba68228a7b1e89fa1d202dd8d6a86ada1e68f4d41cb09b84413d7b6a1"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.7.8.mca"
+hash = "5c467b454624835a7f6e8224595147b695de82b3f2be1448c4b981d17fb60129"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.759.986.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.759.987.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.760.986.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.760.987.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.760.988.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.760.989.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.761.979.mca"
+hash = "26ec1a5111e6256f52c1be67c9b436b55b8803db7b8a79fc8b43a92913f8bc88"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.761.980.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.761.981.mca"
+hash = "77a293abf7b6d80b4dfec1acf00adc577dadab442fce377825348591fea05a03"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.761.982.mca"
+hash = "e7d47593ea30dc0aa4a3d13b127e2e5766d72fb7962602aae0bb54f77f2839de"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.761.984.mca"
+hash = "dae36185c016d0625409fb8600f6b0e9be50e0dd86bb82b09eff3ac394c42640"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.761.985.mca"
+hash = "b67ae6ed5e0e9fcf08757e70b1e92a5d9e40dbfc249714df51e0507f368b8253"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.761.986.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.761.987.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.761.988.mca"
+hash = "c0e9a4471d0cb43654f7d060dde64bbeaecc6304b1edae448e10c31e6b93a4d6"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.761.989.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.762.980.mca"
+hash = "a034945d201b09d4005c57224a6517d1f1b017dc8b747a808505acd2c5d4cb8e"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.762.981.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.762.982.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.762.985.mca"
+hash = "e6e4aaf40bb5d65186085aa290e60af01c6eeeaf023eeb7e0ba05481a149a0dc"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.762.986.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.762.987.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.762.988.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.763.981.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.763.982.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.763.986.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.763.987.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.770.977.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.771.976.mca"
+hash = "1fb9b940e5182089ccba1a15acd76b67665795412e5bcd79014169e012e77906"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.771.977.mca"
+hash = "2acb581fa98710e7f8a01694c28bf65bc19f69d950117348d6f9f57ff665fa09"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.8.6.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.8.7.mca"
+hash = "542e59aee60f632ea60fa4661b6cd9d65e806c9c246774c7cb5cac80bc90148e"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/poi/r.8.8.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-1.-1.mca"
+hash = "b6eb9568c3cbf77ec0c0a3e28783c024ab9608109a5e95ad21d8f32d3a38a488"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-1.-2.mca"
+hash = "fb861522670c67a5a273e06eaac6da5b938f5bfd6db2a821794c0d7bc79aaed2"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-1.0.mca"
+hash = "a8d2463bf5b0f99b5617177554d2eeed499cfb0491761476df2643ab31ad0b76"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-1.1.mca"
+hash = "ebce14cf2ecb58899497f2b3d9edb5ac7d33e6024082f59a63999a49107977ef"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-1.10.mca"
+hash = "7a6f3d41b9c1bf0b6f9b9e12a7e11b508cb35a1b1c1c73889dfef5db23bbfb0a"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-1.11.mca"
+hash = "0012689b8bead8d5b53007248c7da6494cf65ba84d5180c867eec1cbb939bff3"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-1.12.mca"
+hash = "f4f91ff06a8212336f879e4442f021ebe35f8e41c2c5a8ae9026f958ec58e87c"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-1.13.mca"
+hash = "9256819a6e2944f9084c2d007b9092032b23b4f987a127eae250ae4a4dc8f2c9"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-1.14.mca"
+hash = "b82948f1151f5658b1d54cc61bdcbd37d1daaeecd3b309b74def9e263df31cee"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-1.15.mca"
+hash = "0dbc1212d85925fd92d5a51f29d3cfee5933ad5002cb6ad19f7a49a74d49e73e"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-1.16.mca"
+hash = "c8f4990a5f341c4c736456bbff05251fe6162682aa0546a7e5c359e2062b76c2"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-1.17.mca"
+hash = "451b88f394e6917b731f2faffc752512878c5286f2529a9453dd6ff9d553ec76"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-1.2.mca"
+hash = "b0c9d68fba8935fa131ef6b8e070edc598dee94e5c20b3605cf46e067b5ee5b4"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-1.3.mca"
+hash = "50c2c1394965a7637f2c2121cfcca8463f117a96db37b673746b5074caea298f"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-1.4.mca"
+hash = "0a42ee38979acd1351f6af9ff5b0f5322878480544526e39beb4d16869227eb4"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-1.5.mca"
+hash = "fded3a65aa15442190e5c128c066dd82e180195f82e196ef40d42a7e0b523419"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-1.6.mca"
+hash = "7bad6c1f0fd432efb4ac0d4103fa8970ae301e25f53f443d15cbaa7654101924"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-1.7.mca"
+hash = "c6e69871a77e10e1bc5ab02e1c216fbc0006b15790690d61efd53aca2904da36"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-1.8.mca"
+hash = "be5e9acdb39aa8ace446f9bfcca2ce7be6ecd992ca5392c144584d83e71abb6d"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-1.9.mca"
+hash = "6dfb1961d326920962a34b6ba22ed079215451424d5b3ee0d4e98bea42727470"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-10.-4.mca"
+hash = "8694b6775b4e7b09252682f0a76067ffbaaa721feece597906d5e532fb952486"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-10.-5.mca"
+hash = "717cec0cedc7fa4fc4537014c8a90800da9d0cb454d0d1822147e8bec2f9a9cd"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-10.-6.mca"
+hash = "9d8fac5f9e1f1483f2735363d75daf2d615ef773a283a033ec1d1cd602298ca8"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-10.-7.mca"
+hash = "eabcb7d23b00cce27bb0c2ad102134a124bfebce9e03a8a289bf6a95ed90b0c4"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-2.0.mca"
+hash = "a60af8dfa83e076b73bb122f42fde03afc932821631678efeb1fe5079faf25ea"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-2.1.mca"
+hash = "c490b57c589b027d97479d9f177c8f3e8259867fbc9e78cdc44b9614d88a3a08"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-2.10.mca"
+hash = "4534f038060455e272c52109ba1a2c13ac0593bafeb9ac99ba666e549945f6f8"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-2.11.mca"
+hash = "866d171ebb5b2f5f74cb69c192bbb79fdf8891ab573500a62c6e78eb5a21e1a8"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-2.12.mca"
+hash = "737f644faf3e88999956e12f69508bb69a72fc0d9f9ccba17f429249bf09ec27"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-2.13.mca"
+hash = "f2b916f999d00d50d15cee2284181b75e69836d8e5bf415a77631ed2d1b7acfa"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-2.14.mca"
+hash = "3531cd98b19165e872c82fe02b7210a8336c4cac0a66b5904060716e08cfd590"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-2.15.mca"
+hash = "04693dab04d5754c4972c34ad40b4ea998565c403205d6bb9f00c03246b72659"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-2.16.mca"
+hash = "bab598b21b2a13f138ee143dc3919d5e4e05488cdd0cd302911726c0badaa4b9"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-2.17.mca"
+hash = "25ef0cfeaacfd8933ba25766908f5a02979dbe697af6f1c6cc172ffddc279653"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-2.2.mca"
+hash = "81a8bf86c2cb8ea18aafb6fd6eee85344cb61181a7b00d1e5ed1396469469c75"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-2.3.mca"
+hash = "5839aac1fa17a911d1f7c83acf6f3529c89874d969f4bd58e83807adf08a5e34"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-2.4.mca"
+hash = "66a07a134c3c024372bf6e8ddca8545d83de3056d4dd65582798a9bd9d4fc548"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-2.5.mca"
+hash = "a5f777afeb0d8a700cf88f4833d75c45805bc1d97607e759a279399a2cbc50a5"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-2.6.mca"
+hash = "a48371e19e0c241514bf675682312b2397ee82492e356ac67c54551d19676d0a"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-2.7.mca"
+hash = "bfabfe5f4b94a43469790121c5769c6d3c4edaa66f849a92045d52aca0b3fe4d"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-2.8.mca"
+hash = "e395a005c2d5c5063442e330aa044a6d336ec4c699b8db79948e7d0dba90f233"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-2.9.mca"
+hash = "a99bc542bcc819745dc57669d6d43543ec30725f0bcfb527e277dc926a92870f"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-3.10.mca"
+hash = "34770187e10ca83d89d852dc4e181d34e932b023e74de046f6e2bf55e7ac88eb"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-3.11.mca"
+hash = "32aa45b9b519a414d23f8400363b25b323021b017080824b576f00b8917a714b"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-3.12.mca"
+hash = "3c11213ef693b2e1d5a76d73918434c07a79af828a1563ee8efda534cd6179fc"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-3.13.mca"
+hash = "5ddbdb7b043a3d076f28ea5dd90a02a03c74e6c440a3f15a34f9a9e3434914f6"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-3.14.mca"
+hash = "ee66cfc3002eb78b2047d734cfe62a41fc00a8afcf56d10311e0e368dcc79d01"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-3.15.mca"
+hash = "079bbb7703144d33ebe33e511c32e30ae0d5c0e459f99178fc90a724b4c2c5af"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-3.16.mca"
+hash = "280019e364e69021aa19b27043280933c7347def8f4aee9c2354f0149c719530"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-3.2.mca"
+hash = "f7e7812f9d88e69d1d733eff32395009f2203a3a75ca6f5febdd8e12b68c8bc3"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-3.3.mca"
+hash = "57ca7bb2c732288cd8187142d306a1ad7832bea19fe394b329925eebd4ebef96"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-3.4.mca"
+hash = "0ed067a188d5e59bef74f8831aca629a10777fb8c79fcfaa456b8dfd167be2f3"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-3.5.mca"
+hash = "09d39fab13223b58694fb562ca66955bb5fac762f2e0d38a40ef810ee6c6bfe3"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-3.6.mca"
+hash = "fd8cc7321980ad7f99695ee724b8ecdaa59d5e85c7c527910b24e25ea390720a"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-3.7.mca"
+hash = "7294c52e632674788a5029bdd177e28ba003829926632e30b5dec107c14312a0"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-3.8.mca"
+hash = "78d8425a0e8bfb8dc38644b36eb291ffd3be3f782d93a0f2d9d3b8e6e9999d8e"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-3.9.mca"
+hash = "6d2d23518abe3f15d3d6a90da50a1faf816ea89430e730d711b207f1f0db6e50"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-4.10.mca"
+hash = "599bc75d248e1e616061eeff81e3691027b4148efe298977340b6ba420fc5e87"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-4.11.mca"
+hash = "ea388068aa28a6dc9314a5e7288289613add904a37756e14d884e3b1fb30569c"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-4.12.mca"
+hash = "0847b22b3e725b4d2fdabd611e198188cf5efff067fa6d449c738ae3a5ded656"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-4.13.mca"
+hash = "ff0bba1449491317440ca333a159f50cca968d1fbbf92d397f206c8c871b6a79"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-4.14.mca"
+hash = "958ac3da32e2940dfde90ac4e19c77f8b25be9f8e01677c93e2d1ccad268dbc1"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-4.15.mca"
+hash = "10626439b360d582c518c86a1ec44f2b49397d7befe4d3a2272572f4323040e1"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-4.4.mca"
+hash = "3c6dcc1be2b8d143620b556fd8a2912299fa57008a100d86cbe0f8855c75ce30"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-4.5.mca"
+hash = "459c5fc76b4b1ddbf5075602b1d006678a7eff34d19ca3a94705d341b877ba9d"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-4.6.mca"
+hash = "04c6765f2882392de64d47e0903fbf824a5b2555edbb05ef8f7c2ed55ae476e2"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-4.7.mca"
+hash = "bb4777e66174a2af5f7631e8f425638892a1fe01fa52dba7acd5de530f72540e"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-4.8.mca"
+hash = "769fd5bd1fac1742dc7e72594b9582a3b980c8fbfeef4b1caf5d7a84c45fdac0"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-4.9.mca"
+hash = "c52d9101fa0a4e8b6c24e13fa116c7fd7dac173fbdad6989fffbb37ce30f1237"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-5.10.mca"
+hash = "4f2ac752e3b0780e1767b0b6d1ada358e4027d5a1f969ca8321949f3480f41cd"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-5.11.mca"
+hash = "b75d9dd4bbc63b9a95be8f75ec41d7b2e63b359d3efc6f6a43354e8d31928774"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-5.12.mca"
+hash = "6e63bb9e29679d40f6a2bb7dc6b3e20ba928c93eb0c6adadbfb2789e5c1fad8a"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-5.13.mca"
+hash = "0395c6266d9434437591ea7917ad293e14d0d1933f68032deb86510c847486aa"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-5.14.mca"
+hash = "6b2a597e963ccad1a4465424031aa59a00fd86749f8d0959e5895d124e4e8aac"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-5.15.mca"
+hash = "ac0e74a1d265737b79560851d2d357c3d9ea9473be19f038e5c004d7f4326801"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-5.5.mca"
+hash = "e68f598f5c4ce6e048fe35c6764985b9828deb2dd87d73acd33dd743e3767e2b"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-5.6.mca"
+hash = "18d0dca7bfc23e7c3229baae430c5206b383ff64a27ab45d922b98115f15a06a"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-5.7.mca"
+hash = "43af2acf79a1f3727888f4a00ffdeb6fdf0c687e9cb487d5f2699e0ef4050776"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-5.8.mca"
+hash = "1bfa5bfea3140b3eab247602113428584c82545697466a4d979f002919a4b96d"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-5.9.mca"
+hash = "07ab668e1ed1c114eec7cc1b0df312e46555f14d52cb9a22ca9b546e471844a5"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-6.10.mca"
+hash = "fdfa308bd09959d734d79b81e77bb708ae31d86f9fc8b8336aa2a599192920cf"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-6.11.mca"
+hash = "f58c09167e4be087612a8fc1bc695da1fb96e85ebd3ff2c6d381b344279351ad"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-6.12.mca"
+hash = "5dc109ab876401dc53a22bb793aef0923f899a599783731b450f042db653f039"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-6.13.mca"
+hash = "d9ead8ac761dca080d9d2f5c63cf568bd7176324086a69fb35149fd8847c5063"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-6.7.mca"
+hash = "12576325b93a3b330e1c6c828cf23296fb9f9e4614db839625cb1407dd8a57a3"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-6.8.mca"
+hash = "c07ad5caf383a7219c4693a66c1e1c880377e7073a33d12bb3474be7f727eb51"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-6.9.mca"
+hash = "c7c62f4529e20470b23a1d29549953b0bf2ab744adf9169127c0f1e1bda6a6c0"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-7.-4.mca"
+hash = "6625892d7dd892a4474f777d501e1dc14aa001ad324471ba181917eccf48c82a"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-7.-5.mca"
+hash = "0ce604dbf48c2c3934a2b25610cca437efef032cf9fd4831a13f60b9481d7420"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-7.-6.mca"
+hash = "febefd4bf495f72cf1d4943b1d79d099fd224d08c7a341effd05b35505479119"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-7.-7.mca"
+hash = "1b999492c5d251d5a9195c465420eb7db72ed666262b109b922ae8fac419c9f9"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-7.10.mca"
+hash = "5c2e842192d8a4641f4c631b7139262bb5fcfd8b707385a012a54549ae35abb3"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-7.11.mca"
+hash = "9e8efac328be2bfc7e257973ff8fc0e49c5c0e962f8908e878d8635bfc4e267c"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-7.12.mca"
+hash = "9d55bfba5af314ea9d90e0b58b38ec01c2201098e4ac40e6a9e85bac21e448f4"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-7.13.mca"
+hash = "c76900411172c97049138b6a939745af6b592a0af73e5a8de825da7b2d596126"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-7.7.mca"
+hash = "dd71b04099b4c5f5957bccfc182de057c098b299e6a55d8e8c57660518944115"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-7.8.mca"
+hash = "52a3cbee0dfcdb9e803b06aebd7bb02ba8cd724ab2c819726c9225db8b6feb7e"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-7.9.mca"
+hash = "19b6ae2788c80dae7f9096fdd0d1da49c0c67e6373fc4d08b063619d2176b809"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-8.-4.mca"
+hash = "6e135039de8a7c8668bea5a7d23e1fbe6c3d27e4cb0a17f85eec4303f7df6428"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-8.-5.mca"
+hash = "29aaf3cca0e58f17f268f33ac3eb4cd0c5a15a562e74a248ce280f503f459b70"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-8.-6.mca"
+hash = "7d4f169860b65022b85d126a92a27cffe4b2aa3b932ce58dbaa59b0278344bd0"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-8.-7.mca"
+hash = "64c5bd7fedf1463aa13dd3648be9b20298074b8ea17a1197c1442bbf773f1ed3"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-8.10.mca"
+hash = "b1342ff1281285786f216374e5f069ca429d7ddef01eeee6849c645282bec38d"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-8.11.mca"
+hash = "236a7c92085b9d99850ee1e1274f83171622f8505d42b990f8b442148c1cb657"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-8.12.mca"
+hash = "63b1aa9c63f0c7b5ea7f0bdafdf8f8de1c356c75b1dc65a4052be6891db84845"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-8.13.mca"
+hash = "ae49439c08051207efe6a8ba73b1e4e0472f2c68b810c2694ee22e8a5d9b9ddd"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-8.7.mca"
+hash = "e102cb8584094cc884cd9c7b2e61e1622351ddbf36183d91fa380459666d269f"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-8.8.mca"
+hash = "0708d81dac0d983b83042d9b61201979b381c0b6fa4fbe0a123ef52052de8620"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-8.9.mca"
+hash = "6730ad964c4b144d3711bff82775940eeaae2330bbf99008cb778b0777ecdd6c"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-9.-4.mca"
+hash = "eac517a41fc1aaa00d02861b86fb6b518b379a160f9620598eb848e45a7a2c0a"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-9.-5.mca"
+hash = "e567efd0a310ed32398d1756b5210a592cfcdfac98fe2f60bd0df0471a7b4b3b"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-9.-6.mca"
+hash = "e49e5a1a1c7232ff69fd1455ba5aee96262454b167fc434d6c814b505f0ab299"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-9.-7.mca"
+hash = "b59e18f419825916d63354c2c569e0db58afbf013bb93497864716aa1087f4c1"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-9.10.mca"
+hash = "24a250f31c86bc8a69b50ba05d29e42074a62011a68f661fcb9633e45ad27dae"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.-9.11.mca"
+hash = "36337409c64e20f5819144de1b7835439e4d0148af8d76e0055b75eae4965386"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.0.-1.mca"
+hash = "66c1de31f290fa24e63bd093232023a0d8387f8fb773362bdd9a384154df186f"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.0.-2.mca"
+hash = "a80f712d0de50ad754b402c63a1d801fe87afb8cda2a9e92d1dd7ebf087cde4f"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.0.0.mca"
+hash = "8ed580abea69fdabd96e5c59f0119248646a8ba76eaabb94021fdb865deb38b9"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.0.1.mca"
+hash = "d826ff2d0cce8e66424d4a685f2c2d6a954c16ee9072fe03eac3bd844c8c925c"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.0.10.mca"
+hash = "5a37026517d0fa027d0efdfcb69de9d4fe18cefcf90264c134358a74975799d2"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.0.11.mca"
+hash = "efd565ca3b997381c40a7035fa98682ffbb88c6ff175bcd08120a075621463f4"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.0.12.mca"
+hash = "6d65bff33970a89ffa32169916089b49cc184c4dcf1a78788f9df855880e7bf0"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.0.13.mca"
+hash = "5ec70ee09c1b35e179b34b16c150b84770168bafca2134a7d204e71fa7c332f4"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.0.14.mca"
+hash = "393dc3fa2dc3b188093f1369ec51aeb82b4043a9c8dd07621ef10d12115a9486"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.0.15.mca"
+hash = "5a0c4e51a91af05d495000f0705d60bd73469ae0ba6aa61b3f512e44125d0026"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.0.16.mca"
+hash = "68abd8095fccdf8a44bd7e9a150020493446c2b01e708d0d6bdaffd15f582d7f"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.0.17.mca"
+hash = "4d26f7dd9ee7432476c9944fa33a62935f4cb347c66019077c1d71f48b9a6805"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.0.2.mca"
+hash = "d16594331bdc22018a6fdefaaf3064867217abd4b5e427659721e8e6e583df09"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.0.3.mca"
+hash = "6ebcb01f913e8afb34ca5a2270e881b0b5eb487f5c47aff2a8ab446d2b31127f"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.0.4.mca"
+hash = "c3acddbcb7575f7f2f43bbf45ea4dc036fce17affd9b58e37ba9f3e7665d6081"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.0.5.mca"
+hash = "cd736523dbd7f804eef725ffa28172a714fe4f93ebf01169fd8443dc2d0fe816"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.0.6.mca"
+hash = "46403909fab6c99ab59c443294b86f895047bba9988d61553bf28f57476f62b0"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.0.8.mca"
+hash = "d5b9e464537d754c03fb33ca958c429b6887441f2973ffeb78f52957b0e44f52"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.0.9.mca"
+hash = "22807dd748ca58af7031a55db3213f11a35288ebe3c072599e064c87f66d1185"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.1.-1.mca"
+hash = "df5685efa3928f24e60d4d4efcc12d801f52c62ea8a8e6fbe659c029cbc892a7"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.1.-2.mca"
+hash = "6ffb736529e99ce3e39dddb8d8ab3ee953f60bfda2064e194112e6e58783b5c7"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.1.0.mca"
+hash = "7b08b80ddb68b59b6814766ae5857ecbb0949307f4db39b3e097e7dffca9cc57"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.1.1.mca"
+hash = "aa13f31257a59481c9ee83720a307c9cbc76d35cc2ed962e6dae67525c56e74a"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.1.10.mca"
+hash = "9cd651df395d8a4193a618c192f30fe71da61aea87fa733e9a70fec878b0d714"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.1.11.mca"
+hash = "8d3fd7c3826a60762ff7369feafba1af43be706f456df4030a6cc48b4ac7004d"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.1.12.mca"
+hash = "eb97e3579ab01fea9993a2da59a8cc9b00699354948904e15e1dc5404c3f31fe"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.1.13.mca"
+hash = "c3ce266bee50d957591ee187550a5921a182fadba09becf8e2d9d1c3a8a2f744"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.1.14.mca"
+hash = "db4364b3eaa42f1b5398361ae4ae0064c0397661f2652c768ec7f6ad7531b16c"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.1.15.mca"
+hash = "2ceb087297ed3b444cd42c06ccc7ef50acd90b9be22c44c6d51cde39239ee90b"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.1.16.mca"
+hash = "d666f00e02f5043dadf025de0db7a584df5d63900c4e2388bbb1e6a7ccfcc99a"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.1.17.mca"
+hash = "730ab9131f0ba3e347b42e65b3fc888e5503f38e03c9bf1c9de09b58132f94dc"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.1.2.mca"
+hash = "97aa21e0e053f179d1f19d529855d8d3754e6ca7e839e92e457bae1c5b440cc4"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.1.3.mca"
+hash = "58a4af0eff76b014581a6f2804dd73d1f6c41f22e5f4ad1ad25912109e8c7fda"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.1.4.mca"
+hash = "00f42e30e776864a0b67c777baca597ad487efe02957e840fc0e6725a3175e94"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.1.5.mca"
+hash = "0e936966ba61df6331eaf6e83f4441137173cd680f11004fca83c76c6cddb16d"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.1.6.mca"
+hash = "8000652765bf592f0c23f0c8e75a35a306682e3551a8b8a249bee6f5290d477a"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.1.9.mca"
+hash = "dc8bcb15d84a340034c65c38e2319ebdff291ebc068d1fe2c17c7ec7113cb1cf"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.2.10.mca"
+hash = "6c9940902638046e4c9e56e99b29462fe97d405893714f7fa16c654eb9a5ffbd"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.2.11.mca"
+hash = "224e75231fce9d45ece07b67bf29707f94e0943d4def30e02b0bb1ad8add6f13"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.2.12.mca"
+hash = "1e5e68af2dc25d089fccd421eda3581bb1430b3278c59e9cf8db7855a5d1b05c"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.2.13.mca"
+hash = "3c55b8c47177ba8e429c1a0b281868ae36acc05f89ced478d40148cdb145fa6a"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.2.14.mca"
+hash = "9b1edf867171799f1a95c3582faa19f26b25b8120d66081b19627c65fb2f8329"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.2.15.mca"
+hash = "f2074367e3101f61b69563740d0a9d8b147eedb4587128f7d1ff20f9eb5f3bd6"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.2.16.mca"
+hash = "cf4f37b111b2ac58b833842c97456eb8741a1c825e7136ff23c36fa6be1c876f"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.2.17.mca"
+hash = "cc8378cca9a2bdce0e0d444f01518483804487d4e6b990cfebf741878615d0ea"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.2.4.mca"
+hash = "4145e2a8faa0d9de6b07c64ccdc3eeedd8deaaa847f3c6935dd0fe3fa4ee6857"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.2.5.mca"
+hash = "c55c156d75ea1cb49deeea3b6546904e7af61a304ef364dc0b2360abcd173d15"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.3.10.mca"
+hash = "1c5c748f61257429cb365d077c3207c1e139e2fe0197001566ea1e91883b6af3"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.3.11.mca"
+hash = "d6b81874732386fa4668b76e96fdfae7d4c3c6d57c9b61fb1c88d736ed7b67b3"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.3.12.mca"
+hash = "3a0f379a3cc2fe5583fd1da8d71d0433e24fbad8dab4500df24c7ccaa61740e0"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.3.13.mca"
+hash = "d7b1776becb8a770cc33a10d4b9f4c8b5c5168d419f2d8d28c7753f41238efc3"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.3.14.mca"
+hash = "44ba3a97c7ae9d54079604282c5866b815991951b1d2ffcce82284bafcc4f4a1"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.3.15.mca"
+hash = "8db24865505949e6d42d23c733bb59f7333caf40916db89636ffa0cc6c4a99cc"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.3.16.mca"
+hash = "ed3a702537edfe53915fa111ebd2e69159baf0ccaa7c2b9a3088e37d0244bb95"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.4.10.mca"
+hash = "942bc147bdd6ce3d5313cd55644e5066a7be4293f1d255e556df3e6f8b0e6a56"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.4.11.mca"
+hash = "05a78739d81c68f01df45f0a355f84cdefd3dffb63f9d505160d70002f652741"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.4.12.mca"
+hash = "7b3635146b8cbb7932900fb9e418b8a10c86d4f35d99b41202d68d5a10dce0b7"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.4.13.mca"
+hash = "f3d38624038cf1797323d0d0f9e57b655ae692d44a61e2d49857ee428bdb3594"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.4.14.mca"
+hash = "37708c5d88fe2e2b7dfa4693bcaf2cea4997c56813dfe9d1dbb464b0d72730de"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.4.15.mca"
+hash = "7932f9b5ee7ba7bcb22320b095b63aadd41f17892c0176fa56624b8bc9694002"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.4.16.mca"
+hash = "74117c3e52d128f0b55a5ff34d5e098ea5a679157b0735f578136282019da106"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.5.-1.mca"
+hash = "c26e44cf472d7ad37874f6d6b54cd0c18e14bb62cf71fdc2058a82d276701707"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.5.-2.mca"
+hash = "ca47ceb92412a3de7d80bf0ecc693ee4a6daf4ff2fd28e94809de145076f985a"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.5.11.mca"
+hash = "09034a603675942fcad150dcdbb4889c684c19565f1ffa825fddb18c50167172"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.5.12.mca"
+hash = "8cc4855b09ad0ced146d5d70385ed99a28179f20769da9686047e59b67c1480e"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.5.13.mca"
+hash = "eedc28df3cd1cfb202306c966a92a7de7ca28cd454caf8571cc2bd0ac6fda3fb"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.5.14.mca"
+hash = "01504c2b1589b7ce2c82090d76d0800458cfb91f45ab1d6b4494e129e807fd0e"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.5.15.mca"
+hash = "99152cb6099a606bf81afcd15122e2ca9d248ad9aaeb5294aa09dcaf73452931"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.5.16.mca"
+hash = "4275f49e79c5cee51272f7c118c2edcdda7835267a74972810c12343bea87843"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.6.-1.mca"
+hash = "81790a552e4c1806e5886fe56c282322dbf87e64ba644fa70ae937d1bd0025a8"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.6.-2.mca"
+hash = "2c5a831cd62d7ae4d805e67a0816bec4d7d81b5273d74d5c8dbd504ba3dae1f6"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.6.11.mca"
+hash = "5fda6448edd17ac82ca3f4caa3701becc53b8fb3ca1084be450c7b9a85989c49"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.6.12.mca"
+hash = "2acc668446051221b20e3a800222819133d236e29d8a7d057a59a2b1b0def44e"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.6.13.mca"
+hash = "524b33e4a540ec21dfff0cac1dabf1b35738eb238056cc76dfe51d4b648c8b25"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.6.14.mca"
+hash = "c127b006cbd5610676716507ada164766de9f176afd1c72862aeb71830a0cfa2"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.6.6.mca"
+hash = "ce6e477e608e1e9b3c9c1674c15ea04f4631e249a0f2e5a1234edad844308b97"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.6.7.mca"
+hash = "f6592cc8cfdaee536228fbff651515909e951e1be9a311808b9da3702ffc6486"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.6.8.mca"
+hash = "f8a545726d5ac0b17f87aa86b08703d82bb61f5176c451b631b9c494e26b25b4"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.7.6.mca"
+hash = "74054815c83c2903376de07a5067c472ce7a04a6a34794504db168bbb3e13afd"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.7.7.mca"
+hash = "393d5cbf17703565c0b0d12c75d425fba21bc0c50601f87ece29aba26e36be8a"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.7.8.mca"
+hash = "5efb1bc2acef195fa5b52f15cde1f0560a4893adcb7a4e17cb62fe18cdb08e78"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.759.985.mca"
+hash = "8ca75d172b8f00d146f41be65e78a72a9ef2407a907ebf23c0658d519b769ba1"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.759.986.mca"
+hash = "5f9fd38bb536354a00eae8370fb6cf29155888108424d3a54cab2fad9bfa6e90"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.759.987.mca"
+hash = "aa4305a35170995bc860be31190b4d79e6b19c7a570db643ca82dc7f343318c2"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.760.978.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.760.979.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.760.980.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.760.983.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.760.984.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.760.985.mca"
+hash = "0b48f350d0e853809c3a4b71901fc9b62559446b93e601186f06a8934c365c36"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.760.986.mca"
+hash = "fdf627c03c39d342dcb524fe28075d3e7320019e8d072a025b061b36d9228139"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.760.987.mca"
+hash = "8485f62d2f00ef0788afe6fabdde750acb7e045b49047a3dfa0b92c7cc0fc45f"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.760.988.mca"
+hash = "19e6cb18d1407f3722cd1869f1a99714e8df6918d78d24a6a3ecc26d22c78548"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.760.989.mca"
+hash = "e8fa868b6fa0214e703064848faa8f9668a614d7f64a0d9dfddf6a7ceafcf236"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.761.978.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.761.979.mca"
+hash = "0cf2a2623bcc5f40f1cdd0fb0cbe9d81880fb889101f4b41c7f79255079c831c"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.761.980.mca"
+hash = "2c7bdfce94c4e90bd8401760cb439108f0dfdce78912bd8df5e83e18220f677a"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.761.981.mca"
+hash = "6d7979be7019b17f90f9ef93d1f375498bff45a34fc2241a656334b096d725f5"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.761.982.mca"
+hash = "26efb1a05787aeda60ba895d3273359afe415a830222dc3e767c8fe4a09984e0"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.761.983.mca"
+hash = "78a841480a14c7829b43b2b14c2973c09a8835361e79048bb5239ef502dc989b"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.761.984.mca"
+hash = "c6ed211799281e7a1c3eb9680f9aa0291117ec35f32baafb3ae42962ed1c06c2"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.761.985.mca"
+hash = "419b51cf5d7e14abd6e447358e6c6bb12eb327696a6207a24a1546ba1c86921f"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.761.986.mca"
+hash = "22badc5f5646627b9193c623fabc2c5a3a8e2aaf7c8498a4c22338678cef196f"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.761.987.mca"
+hash = "ef8520b1873baca2a0053429a69770224282d9b111d4474bf29b76cd83889b53"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.761.988.mca"
+hash = "b1fd258453ca59ea5677ac9a9a804f7df4126680b4c91c4cc1bedc27d6369baa"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.761.989.mca"
+hash = "f0901340548ef72935658930e8816f2efcf27d47fd5eae22e498dcf1444c478e"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.762.978.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.762.979.mca"
+hash = "b9f756bde4d24c1d99b9d73a1feef1c3333d58abe2571dadb13dc09e5bd9a670"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.762.980.mca"
+hash = "cb8900fbf44755780543070d3a7056fe1da72b8b942154101eee936cfa104632"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.762.981.mca"
+hash = "9bdd7c5d944a9bbc7eb55155ef17748812ccfb1340eda51a4e137fcf8944d633"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.762.982.mca"
+hash = "2129de3011910e721238649d02b8008519877315a5b1a504cace916eaaf567b3"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.762.983.mca"
+hash = "1e1dcf9688ee3e4e71dd44847bf1ee9116a47294309dca2bd040c41dc5230f20"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.762.984.mca"
+hash = "f321bbf5ce3587c639291e55c69368dd79f5069b64ed26c49a0431582018e8e5"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.762.985.mca"
+hash = "782152365e92050548745e5436a598d1c0690620cfb5959a44e05d85046d897c"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.762.986.mca"
+hash = "04679c354bf054f90910487c56bb9997f7b5ad21b7d4145675986a5265a4a955"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.762.987.mca"
+hash = "a9376975f306e79d3e10705849be7d6a6468093a57f655162146aba8f9b3e23c"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.762.988.mca"
+hash = "bd41d7a4efc799383d352fa7a3f45944017c62dc25cd2cc205486bea63f3f14b"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.762.989.mca"
+hash = "47badc325edff8b3407214626e590adbaac6180211b922eaa259336936357f12"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.763.980.mca"
+hash = "f9097a4c73e43ac8867ec557b44e975b133b3218cfa38d314a5c09cde3b05b07"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.763.981.mca"
+hash = "9ed8f81d927567c0a8bf388bee7d02b3d80d5e3360ef93bb6b6952f0d060a104"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.763.982.mca"
+hash = "181b75425950a08408c11f8a78e96c1f28915c66cfcc45fd237ca09137f7f595"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.763.983.mca"
+hash = "9b15271b4bf3395aa6b19e2de7b24ab4265f438c10ea4251494ff65b6ec07b61"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.763.986.mca"
+hash = "ba650022c744ac2d958b01441cee7700bfe7cf2135e94ab0a1dc217f87d23d10"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.763.987.mca"
+hash = "80079a92b84e24563cc1b97d32d319c67fa20b3db8934987a9af34116098ac25"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.763.988.mca"
+hash = "efe287f8ba45afda9139f839bf88a389cc939d9cf17f914494606524b245ee3b"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.764.981.mca"
+hash = "3c84f507127a83bce967322133742d6c77a54865eb9f21eb11fd2e5b2298528c"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.764.982.mca"
+hash = "a3ab2f55dc9c90bc803764bd434f33a59435733ff2f69f8eaf872067ac972aa1"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.764.983.mca"
+hash = "e2d78e74a05bf6b2e31b58e50c7e71ed493929a631c9b87da62935f6762837f9"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.765.981.mca"
+hash = "8f33ea436a4888245481c18c4163f593e338402a7a469ffd9018f64c8e275c12"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.765.982.mca"
+hash = "6d9062e489c101d8cf619b7f123b01e114c0301891cbb8840bf2c958732a25ce"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.766.981.mca"
+hash = "845f570b307c1beac961d74936c842fd5a434a1b841ed82a38702ffe5bc8a111"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.766.982.mca"
+hash = "8ca146bf82416d43f09accf44d8a23b6214a2fed76e9f6f68db8371d3dc323fd"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.766.983.mca"
+hash = "f0c07541f44b0d4ee365c90f4c6b671ffac1c65005d7f8620d85c2c820c9cca1"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.769.977.mca"
+hash = "33ba1c5f05c050c7b79b2b2a3cda468fef95527b3f938cfb346fe30dc065450f"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.769.978.mca"
+hash = "c4a156268889b1222ddd4ee051d6796105a97e3adf9163562bb24c8d600315fa"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.770.976.mca"
+hash = "773b5de4692cb3c81a515fc6ce7c5d9451e2c04b9ab9063fbecbbc1bb0241521"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.770.977.mca"
+hash = "27963c9a43b54b892f341739c79e2175f22c7db236980573b02f10c739a9b35b"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.770.978.mca"
+hash = "920eaf02e38f03c33ed20dedde282215bc2223f58e0405c23ccdf86dfc6892ac"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.771.976.mca"
+hash = "ed05ff85fb8b37df45e51eb3d9c1cf9625a7de338a7de7a2dd10c75ccd122252"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.771.977.mca"
+hash = "64834840cd202c26f1eee3302a0cf14cc0933e9da63ad3dd5865208f89b83159"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.771.978.mca"
+hash = "7bb499a8a2838a8f093a3bec16aca9ad87b7beeff1c32eecc7c348f8b6a5f34e"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.772.972.mca"
+hash = "09b48b7925824136a07d60a2d4b22fb6fe9590db76ed90e76b630081cfa9cce2"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.772.976.mca"
+hash = "9909d9705f235dc10ff61ea522bd0e37060bde59d2f95bec0dc96cd650ea5710"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.772.977.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.773.971.mca"
+hash = "5bad6bea52864ec727fa74eca1bc78899a80993e19e0e52a601c9f8ed6ecdd0e"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.8.6.mca"
+hash = "43c42250a897ee2468e77ee13604931e7415138521037c77f6df8be3a764a406"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.8.7.mca"
+hash = "be574e8719bddd9aef6ccd84bef91e204eb8cc762b2ad3d47a7f2f3eb9d3dc7d"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/region/r.8.8.mca"
+hash = "fe9edc85ca5b407a40d2f461dbc9fb84f64e86c649955402b77596af2e89c690"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/session.lock"
+hash = "51643361c79ecaef25a8de802de24f570ba25d9c2df1d22d94fade11b4f466cc"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/stats/e10896a3-8df6-4987-97cf-9e8b1c1b4790.json"
+hash = "94f94560a4033550472decc6d3aa6836b084a4408aece68a66986ed83feaec19"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/stats/e660f343-90e4-4c6a-9a44-a85ef3aa225b.json"
+hash = "9d0273711c4c2d79885f9024576f495f1e4edbca15492475bd9c55247f02d942"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/uid.dat"
+hash = "f71bf84bfb9939191de649b5a9d4767e672de0eaafb5b09763f3cc8abe5e6f20"
+
+[[files]]
+file = "1.19.2 Bestie Server/Bestie_World_2/xaeromap.txt"
+hash = "8dbfdff8facbf52593168c3234797f1d3ca58f609a932145c66cb024b16d656f"
+
+[[files]]
+file = "1.19.2 Bestie Server/banned-ips.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "1.19.2 Bestie Server/banned-players.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "1.19.2 Bestie Server/eula.txt"
+hash = "7911c2b7a8d5337f247a71a423f2a9f85c6ad7295f4a2df99d1eab054b1efcfd"
+
+[[files]]
+file = "1.19.2 Bestie Server/libraries/com/github/oshi/oshi-core/5.8.5/oshi-core-5.8.5.jar"
+hash = "fe16bd8836eecf3d152585c2151322273b68237d13f223e662e0db959dd13680"
+
+[[files]]
+file = "1.19.2 Bestie Server/libraries/com/google/code/gson/gson/2.8.9/gson-2.8.9.jar"
+hash = "d3999291855de495c94c743761b8ab5176cfeabe281a5ab0d8e8d45326fd703e"
+
+[[files]]
+file = "1.19.2 Bestie Server/libraries/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar"
+hash = "a171ee4c734dd2da837e4b16be9df4661afab72a41adaf31eb84dfdaf936ca26"
+
+[[files]]
+file = "1.19.2 Bestie Server/libraries/com/google/guava/guava/31.0.1-jre/guava-31.0.1-jre.jar"
+hash = "d5be94d65e87bd219fb3193ad1517baa55a3b88fc91d21cf735826ab5af087b9"
+
+[[files]]
+file = "1.19.2 Bestie Server/libraries/com/mojang/authlib/3.11.49/authlib-3.11.49.jar"
+hash = "866d5b4c844ce698552ec4eb04c47cc7760ef71e3fa2be5f9f32ddac677d6e1a"
+
+[[files]]
+file = "1.19.2 Bestie Server/libraries/com/mojang/brigadier/1.0.18/brigadier-1.0.18.jar"
+hash = "edc4926aa4b49010f6e7ac46efd623fb38f9517344d26f6251d79a26a9738c0b"
+
+[[files]]
+file = "1.19.2 Bestie Server/libraries/com/mojang/datafixerupper/5.0.28/datafixerupper-5.0.28.jar"
+hash = "d1990b4801ee970f211dd507d0f7f299e86af36f6330da83cfba87a8ddf4076d"
+
+[[files]]
+file = "1.19.2 Bestie Server/libraries/com/mojang/javabridge/1.2.24/javabridge-1.2.24.jar"
+hash = "b5f8871a1799b36e27a5f2ad8a4b47db39210031c967b794707b92e9e3f8598e"
+
+[[files]]
+file = "1.19.2 Bestie Server/libraries/com/mojang/logging/1.0.0/logging-1.0.0.jar"
+hash = "b2f5d129244f7a90973623cb683becfccd0e23b2ac3adec028f259f27b0a5400"
+
+[[files]]
+file = "1.19.2 Bestie Server/libraries/commons-io/commons-io/2.11.0/commons-io-2.11.0.jar"
+hash = "961b2f6d87dbacc5d54abf45ab7a6e2495f89b75598962d8c723cea9bc210908"
+
+[[files]]
+file = "1.19.2 Bestie Server/libraries/io/netty/netty-buffer/4.1.77.Final/netty-buffer-4.1.77.Final.jar"
+hash = "41b7ddc4dd124c7e75af33a13a426fda4e1ec87c387cd234971e7df4c0b51c26"
+
+[[files]]
+file = "1.19.2 Bestie Server/libraries/io/netty/netty-codec/4.1.77.Final/netty-codec-4.1.77.Final.jar"
+hash = "84e4e01dd5b345311e971289b5bc08c0dfd6054a28d16853f0416943c9a3e458"
+
+[[files]]
+file = "1.19.2 Bestie Server/libraries/io/netty/netty-common/4.1.77.Final/netty-common-4.1.77.Final.jar"
+hash = "40dd9b5ef14878f050a1f7f4d5647d53473f134e349665b47243bde56de7a51f"
+
+[[files]]
+file = "1.19.2 Bestie Server/libraries/io/netty/netty-handler/4.1.77.Final/netty-handler-4.1.77.Final.jar"
+hash = "7911becd4850ff3fc3d93b4be7c468a2f6444fb48c17eec03c807856faf11e0a"
+
+[[files]]
+file = "1.19.2 Bestie Server/libraries/io/netty/netty-resolver/4.1.77.Final/netty-resolver-4.1.77.Final.jar"
+hash = "0161cfe9544b3656ed0de67d8937828101859e94bcd0caaf58d21ac7011eabd4"
+
+[[files]]
+file = "1.19.2 Bestie Server/libraries/io/netty/netty-transport-classes-epoll/4.1.77.Final/netty-transport-classes-epoll-4.1.77.Final.jar"
+hash = "0593fb942d7d57aadcc22360a238dcfac9f29013a20201ef49cc392b0dd2aaf9"
+
+[[files]]
+file = "1.19.2 Bestie Server/libraries/io/netty/netty-transport-native-epoll/4.1.77.Final/netty-transport-native-epoll-4.1.77.Final-linux-aarch_64.jar"
+hash = "118ad3c04f7169c7893a4d909558c37ffaed15e4b549f2c25b864e2f966ecce8"
+
+[[files]]
+file = "1.19.2 Bestie Server/libraries/io/netty/netty-transport-native-epoll/4.1.77.Final/netty-transport-native-epoll-4.1.77.Final-linux-x86_64.jar"
+hash = "5965ed3dd2558bfc017ccd765698fb2801d0c0d54900779d033d23959171a435"
+
+[[files]]
+file = "1.19.2 Bestie Server/libraries/io/netty/netty-transport-native-unix-common/4.1.77.Final/netty-transport-native-unix-common-4.1.77.Final.jar"
+hash = "108d27f325fa9ce9a914fa53638fbeeb1a384148fb3a13389bd09a5e38e4ac1e"
+
+[[files]]
+file = "1.19.2 Bestie Server/libraries/io/netty/netty-transport/4.1.77.Final/netty-transport-4.1.77.Final.jar"
+hash = "034cdf7d81feaad9977c3d8b4fc05611952bc9861dfb9085b8962e2c1de582aa"
+
+[[files]]
+file = "1.19.2 Bestie Server/libraries/it/unimi/dsi/fastutil/8.5.6/fastutil-8.5.6.jar"
+hash = "5021369bdc72e2ca24222d036c9b35c9733dc9c082a0891c4dba5a583663f30b"
+
+[[files]]
+file = "1.19.2 Bestie Server/libraries/net/fabricmc/access-widener/2.1.0/access-widener-2.1.0.jar"
+hash = "8175b480d8b527618e65cd1826e42eee208b509f8b16b31230f0654268bb9422"
+
+[[files]]
+file = "1.19.2 Bestie Server/libraries/net/fabricmc/fabric-loader/0.14.10/fabric-loader-0.14.10.jar"
+hash = "127964a0a9836cdd3595dd85a623206e805a77ced5eb16af86498c74c55c867b"
+
+[[files]]
+file = "1.19.2 Bestie Server/libraries/net/fabricmc/intermediary/1.19.2/intermediary-1.19.2.jar"
+hash = "a98525d120f1fca94c224253ebf6f0206a0e401f1797139c40977cc6bdf58e07"
+
+[[files]]
+file = "1.19.2 Bestie Server/libraries/net/fabricmc/sponge-mixin/0.11.4+mixin.0.8.5/sponge-mixin-0.11.4+mixin.0.8.5.jar"
+hash = "cfebf5479dc0ff00d59e4d02b19bcd773ba09ac508aa1e706c90fe8a8782f05a"
+
+[[files]]
+file = "1.19.2 Bestie Server/libraries/net/fabricmc/tiny-mappings-parser/0.3.0+build.17/tiny-mappings-parser-0.3.0+build.17.jar"
+hash = "ab91038c4b1bff9b0999eb6959e012cd0e0bf116401ebab37001ec325d877ba6"
+
+[[files]]
+file = "1.19.2 Bestie Server/libraries/net/fabricmc/tiny-remapper/0.8.2/tiny-remapper-0.8.2.jar"
+hash = "160c436c19707b4ae9e87502e5f04d733d8e09b4143735400c3464cb04163476"
+
+[[files]]
+file = "1.19.2 Bestie Server/libraries/net/java/dev/jna/jna-platform/5.10.0/jna-platform-5.10.0.jar"
+hash = "1f71afd977051bf0109ef5e3767d4e2afd777be894d89788cc0f38ad68f6a16f"
+
+[[files]]
+file = "1.19.2 Bestie Server/libraries/net/java/dev/jna/jna/5.10.0/jna-5.10.0.jar"
+hash = "e335c10679f743207d822c5f7948e930319835492575a9dba6b94f8a3b96fcc8"
+
+[[files]]
+file = "1.19.2 Bestie Server/libraries/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar"
+hash = "df26cc58f235f477db07f753ba5a3ab243ebe5789d9f89ecf68dd62ea9a66c28"
+
+[[files]]
+file = "1.19.2 Bestie Server/libraries/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar"
+hash = "d919d904486c037f8d193412da0c92e22a9fa24230b9d67a57855c5c31c7e94e"
+
+[[files]]
+file = "1.19.2 Bestie Server/libraries/org/apache/logging/log4j/log4j-api/2.17.0/log4j-api-2.17.0.jar"
+hash = "ab9cadc80e234580e3f3c8c18644314fccd4b3cd3f7085d4e934866cb561b95d"
+
+[[files]]
+file = "1.19.2 Bestie Server/libraries/org/apache/logging/log4j/log4j-core/2.17.0/log4j-core-2.17.0.jar"
+hash = "65c33dc9b24a5e5f6cacae62680641582894749c7bf16c951032ef92f3e12a60"
+
+[[files]]
+file = "1.19.2 Bestie Server/libraries/org/apache/logging/log4j/log4j-slf4j18-impl/2.17.0/log4j-slf4j18-impl-2.17.0.jar"
+hash = "40bb460ce600aabf832be01141d07ed439fe288140aafae4fdc391d682e9cf43"
+
+[[files]]
+file = "1.19.2 Bestie Server/libraries/org/ow2/asm/asm-analysis/9.3/asm-analysis-9.3.jar"
+hash = "37fd5392bb2cf4c15f202ffefd46d0e92bb34ff848c549f30d426a60d6b29495"
+
+[[files]]
+file = "1.19.2 Bestie Server/libraries/org/ow2/asm/asm-commons/9.3/asm-commons-9.3.jar"
+hash = "a347c24732db2aead106b6e5996a015b06a3ef86e790a4f75b61761f0d2f7f39"
+
+[[files]]
+file = "1.19.2 Bestie Server/libraries/org/ow2/asm/asm-tree/9.3/asm-tree-9.3.jar"
+hash = "ae629c2609f39681ef8d140a42a23800464a94f2d23e36d8f25cd10d5e4caff4"
+
+[[files]]
+file = "1.19.2 Bestie Server/libraries/org/ow2/asm/asm-util/9.3/asm-util-9.3.jar"
+hash = "70f78f291ca0298afdb567fa85c5667869bc3da3914784816413853994962192"
+
+[[files]]
+file = "1.19.2 Bestie Server/libraries/org/ow2/asm/asm/9.3/asm-9.3.jar"
+hash = "1263369b59e29c943918de11d6d6152e2ec6085ce63e5710516f8c67d368e4bc"
+
+[[files]]
+file = "1.19.2 Bestie Server/libraries/org/slf4j/slf4j-api/1.8.0-beta4/slf4j-api-1.8.0-beta4.jar"
+hash = "602b712329c84b4a83c40464f4fdfd0fe4238c53ef397139a867064739dbf4e0"
+
+[[files]]
+file = "1.19.2 Bestie Server/logs/2022-10-25-1.log.gz"
+hash = "75a85ca5dd3a2d0c370686a15f4cca69984aaa44993c4bec300ef76b7293c0b3"
+
+[[files]]
+file = "1.19.2 Bestie Server/logs/2022-10-25-2.log.gz"
+hash = "47d7e50c09f659fbdcaf99f58dfaff8eebe537c38cd6a6ca4efb97bad0033c23"
+
+[[files]]
+file = "1.19.2 Bestie Server/logs/2022-10-25-3.log.gz"
+hash = "a89e48beeb3d7ab772723f793b0a99c52d775da6085b28507c3a90f43854a8d5"
+
+[[files]]
+file = "1.19.2 Bestie Server/logs/latest.log"
+hash = "17006485152f7595b27316fcd86c73d06ace3dfc4c9ca9aeded1dba34e2dfc9e"
+
+[[files]]
+file = "1.19.2 Bestie Server/ops.json"
+hash = "bb415bf5c2bb2aab8af78bcbb868306ddd77981043f3661f872f927721dfbc1f"
+
+[[files]]
+file = "1.19.2 Bestie Server/packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+
+[[files]]
+file = "1.19.2 Bestie Server/packwiz-installer.jar"
+hash = "b61220834664057d221eb9f448a1fa00caa2e6c658f20e28873b59bb7bef9bb4"
+
+[[files]]
+file = "1.19.2 Bestie Server/run.sh"
+hash = "c10612f4e2deaaf433367679eec816c34f2405e72fe3a03e880ed44596716f99"
+
+[[files]]
+file = "1.19.2 Bestie Server/server-icon.png"
+hash = "d0836ec0865a9d8056fcfe3a1d5d63a3ef85200d14e3fc976ff764576d4bb338"
+
+[[files]]
+file = "1.19.2 Bestie Server/server.jar"
+hash = "8d7a944dc276f742e4cc3d9dc5ad4e015f07e8c6813aa57b249d736d448ae265"
+
+[[files]]
+file = "1.19.2 Bestie Server/server.properties"
+hash = "0acf02d711d19bde1f1ce0055dd5017ea764809345776edbd2588c3c426a4700"
+
+[[files]]
+file = "1.19.2 Bestie Server/usercache.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "1.19.2 Bestie Server/versions/1.19.2/server-1.19.2.jar"
+hash = "d79def2f9aaf06d6b851e568150762b8e7ee24a898a314cf34b210cbd9ea14b6"
+
+[[files]]
+file = "1.19.2 Bestie Server/whitelist.json"
+hash = "2782e745f587d9f02f7f0d223374f831f3fcb34d9c99c7511fc2e7346260d660"
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "fda319290cfe268fdc7c6c6ca8dcad24e51c1de98442f23f2a41d657b26fc8d0"
 metafile = true
