@@ -91,6 +91,11 @@ hash = "1d0adb6150edfe74a7a51ce4069d399330fdd920b4f4ad4dc39de7a588490f8e"
 metafile = true
 
 [[files]]
+file = "mods/wandering-collector.pw.toml"
+hash = "ff70792c0effb18c509f37d387a6712a15b6893e7eb898d7671b20f4b2d8756f"
+metafile = true
+
+[[files]]
 file = "mods/yacl.pw.toml"
 hash = "bf1922d77e7e4b5667532dd6abd36f5cdff870314247d43a1cf50e9139e18458"
 metafile = true
