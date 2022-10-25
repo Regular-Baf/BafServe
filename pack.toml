@@ -1,13 +1,13 @@
-name = "Bafserve"
-author = "Regular Baf"
-version = "0.6.9"
-pack-format = "packwiz:1.0.0"
+name = "BafServe"
+author = "Baf Daddy"
+version = "2.0"
+pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d4ca57bd81a018af889c90b25a8c76efd7265617fc29df4f3192f9ac0e27779a"
+hash = "014494cf7d794e738734e4bac730655bcb36bd2cd771493cfc4ed62e6f2a8f82"
 
 [versions]
-fabric = "0.13.3"
-minecraft = "1.18.2"
+fabric = "0.14.10"
+minecraft = "1.19.2"
